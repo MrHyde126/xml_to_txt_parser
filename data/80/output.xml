@@ -1,0 +1,693 @@
+<node type="RIL_TEXTLINE" X="674" Y="1124" W="22" H="28" angle="-24.443954468">
+    <node type="RIL_WORD" X="674" Y="1124" W="22" H="28">5</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1536" W="42" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="876" Y="1536" W="42" H="34">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1492" W="42" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="876" Y="1492" W="42" H="34">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1400" W="42" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="876" Y="1400" W="42" H="36">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1580" W="42" H="36" angle="0.000000000">
+    <node type="RIL_WORD" X="876" Y="1580" W="42" H="36">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1446" W="42" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="876" Y="1446" W="42" H="34">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="876" Y="1354" W="44" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="876" Y="1354" W="44" H="36">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="1198" Y="2506" W="100" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1198" Y="2506" W="50" H="34">У</node>
+</node>
+<node type="RIL_TEXTLINE" X="792" Y="1396" W="46" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="792" Y="1396" W="46" H="38">O1</node>
+</node>
+<node type="RIL_TEXTLINE" X="1182" Y="1126" W="48" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="1182" Y="1126" W="48" H="36">с</node>
+</node>
+<node type="RIL_TEXTLINE" X="982" Y="1666" W="48" H="28" angle="0.000000000">
+    <node type="RIL_WORD" X="982" Y="1666" W="48" H="28">ЧР</node>
+</node>
+<node type="RIL_TEXTLINE" X="830" Y="1936" W="48" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="830" Y="1936" W="48" H="28">п</node>
+</node>
+<node type="RIL_TEXTLINE" X="1194" Y="2464" W="56" H="46" angle="-0.000000000">
+    <node type="RIL_WORD" X="1194" Y="2464" W="56" H="46">9</node>
+</node>
+<node type="RIL_TEXTLINE" X="828" Y="1660" W="56" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="828" Y="1660" W="56" H="28">705</node>
+</node>
+<node type="RIL_TEXTLINE" X="1676" Y="2076" W="56" H="58" angle="-41.820171356">
+    <node type="RIL_WORD" X="1676" Y="2076" W="56" H="58">9</node>
+</node>
+<node type="RIL_TEXTLINE" X="1420" Y="2468" W="58" H="72" angle="2.726310730">
+    <node type="RIL_WORD" X="1420" Y="2468" W="58" H="72">52</node>
+</node>
+<node type="RIL_TEXTLINE" X="926" Y="1936" W="58" H="28" angle="0.000000000">
+    <node type="RIL_WORD" X="926" Y="1936" W="58" H="28">ГС</node>
+</node>
+<node type="RIL_TEXTLINE" X="624" Y="2482" W="60" H="42" angle="0.000000000">
+    <node type="RIL_WORD" X="624" Y="2482" W="60" H="42">ГО</node>
+</node>
+<node type="RIL_TEXTLINE" X="872" Y="1936" W="60" H="28" angle="0.000000000">
+    <node type="RIL_WORD" X="872" Y="1936" W="60" H="28">&apos;</node>
+</node>
+<node type="RIL_TEXTLINE" X="508" Y="2198" W="64" H="66" angle="-0.000000000">
+    <node type="RIL_WORD" X="508" Y="2198" W="64" H="66">П</node>
+</node>
+<node type="RIL_TEXTLINE" X="1490" Y="1536" W="64" H="32" angle="-0.000000000">
+    <node type="RIL_WORD" X="1490" Y="1536" W="64" H="32">н/п</node>
+</node>
+<node type="RIL_TEXTLINE" X="1488" Y="1700" W="64" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1488" Y="1700" W="64" H="38">1,50</node>
+</node>
+<node type="RIL_TEXTLINE" X="1328" Y="2460" W="66" H="70" angle="-0.000000000">
+    <node type="RIL_WORD" X="1328" Y="2460" W="66" H="70">7</node>
+</node>
+<node type="RIL_TEXTLINE" X="1676" Y="1704" W="66" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1676" Y="1704" W="66" H="34">т/м3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1572" Y="2064" W="68" H="42" angle="45.000000000">
+    <node type="RIL_WORD" X="1572" Y="2064" W="68" H="42">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="704" Y="1534" W="72" H="38" angle="0.000000000">
+    <node type="RIL_WORD" X="704" Y="1534" W="72" H="38">0,70</node>
+</node>
+<node type="RIL_TEXTLINE" X="746" Y="1260" W="72" H="42" angle="-2.862405062">
+    <node type="RIL_WORD" X="746" Y="1260" W="72" H="42">1,63</node>
+</node>
+<node type="RIL_TEXTLINE" X="704" Y="1580" W="72" H="36" angle="0.000000000">
+    <node type="RIL_WORD" X="704" Y="1580" W="72" H="36">0,00</node>
+</node>
+<node type="RIL_TEXTLINE" X="704" Y="1490" W="72" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="704" Y="1490" W="72" H="36">3,88</node>
+</node>
+<node type="RIL_TEXTLINE" X="704" Y="1354" W="74" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="704" Y="1354" W="74" H="38">3,24</node>
+</node>
+<node type="RIL_TEXTLINE" X="1486" Y="1580" W="74" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1486" Y="1580" W="74" H="38">7,46</node>
+</node>
+<node type="RIL_TEXTLINE" X="704" Y="1398" W="74" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="704" Y="1398" W="74" H="38">7,50</node>
+</node>
+<node type="RIL_TEXTLINE" X="1198" Y="826" W="74" H="72" angle="-0.000000000">
+    <node type="RIL_WORD" X="1198" Y="826" W="74" H="72">О</node>
+</node>
+<node type="RIL_TEXTLINE" X="1290" Y="2496" W="76" H="46" angle="-3.576334476">
+    <node type="RIL_WORD" X="1290" Y="2496" W="76" H="46">0&lt;</node>
+</node>
+<node type="RIL_TEXTLINE" X="1076" Y="2468" W="78" H="48" angle="-6.340191841">
+    <node type="RIL_WORD" X="1076" Y="2468" W="78" H="48">о</node>
+</node>
+<node type="RIL_TEXTLINE" X="1880" Y="2338" W="78" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="1880" Y="2338" W="77" H="40">С.А.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1920" Y="56" W="78" H="58" angle="-0.000000000">
+    <node type="RIL_WORD" X="1920" Y="56" W="78" H="58">14</node>
+</node>
+<node type="RIL_TEXTLINE" X="1244" Y="2460" W="86" H="48" angle="-2.045408487">
+    <node type="RIL_WORD" X="1244" Y="2460" W="86" H="48">э</node>
+</node>
+<node type="RIL_TEXTLINE" X="1478" Y="1354" W="88" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1478" Y="1354" W="88" H="38">13,26</node>
+</node>
+<node type="RIL_TEXTLINE" X="1552" Y="1264" W="88" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1552" Y="1264" W="88" H="34">Песок</node>
+</node>
+<node type="RIL_TEXTLINE" X="1476" Y="1444" W="90" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1476" Y="1444" W="90" H="38">63,81</node>
+</node>
+<node type="RIL_TEXTLINE" X="544" Y="2482" W="90" H="30" angle="-2.290610075">
+    <node type="RIL_WORD" X="544" Y="2482" W="90" H="30">Чргр</node>
+</node>
+<node type="RIL_TEXTLINE" X="1476" Y="1398" W="90" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1476" Y="1398" W="90" H="38">30,91</node>
+</node>
+<node type="RIL_TEXTLINE" X="698" Y="1444" W="90" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="698" Y="1444" W="90" H="38">18,20</node>
+</node>
+<node type="RIL_TEXTLINE" X="1476" Y="1488" W="92" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="1476" Y="1488" W="92" H="40">98,02</node>
+</node>
+<node type="RIL_TEXTLINE" X="1320" Y="564" W="94" H="72" angle="0.000000000">
+    <node type="RIL_WORD" X="1320" Y="564" W="94" H="72">Ф/</node>
+</node>
+<node type="RIL_TEXTLINE" X="1660" Y="1580" W="98" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="1660" Y="1580" W="98" H="40">м/сут</node>
+</node>
+<node type="RIL_TEXTLINE" X="1362" Y="2462" W="102" H="78" angle="27.474433899">
+    <node type="RIL_WORD" X="1362" Y="2462" W="102" H="78">б</node>
+</node>
+<node type="RIL_TEXTLINE" X="1150" Y="1918" W="102" H="30" angle="-6.340191841">
+    <node type="RIL_WORD" X="1150" Y="1918" W="102" H="30">ичены</node>
+</node>
+<node type="RIL_TEXTLINE" X="1088" Y="866" W="104" H="34" angle="0.000000000">
+    <node type="RIL_WORD" X="1088" Y="866" W="104" H="34">)с</node>
+</node>
+<node type="RIL_TEXTLINE" X="724" Y="1642" W="108" H="42" angle="1.193496704">
+    <node type="RIL_WORD" X="724" Y="1642" W="108" H="42">ø1,98</node>
+</node>
+<node type="RIL_TEXTLINE" X="1074" Y="2508" W="126" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1074" Y="2508" W="126" H="34">У)Ф»о</node>
+</node>
+<node type="RIL_TEXTLINE" X="1058" Y="826" W="134" H="72" angle="-2.202598095">
+    <node type="RIL_WORD" X="1058" Y="826" W="134" H="72">О0</node>
+</node>
+<node type="RIL_TEXTLINE" X="744" Y="1696" W="148" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="744" Y="1696" W="148" H="26">U00S</node>
+</node>
+<node type="RIL_TEXTLINE" X="1536" Y="2152" W="156" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="1536" Y="2152" W="85" H="42">&lt;0,5</node>
+    <node type="RIL_WORD" X="1656" Y="2152" W="35" H="42">1,0</node>
+</node>
+<node type="RIL_TEXTLINE" X="1518" Y="1192" W="158" H="42" angle="0.000000000">
+    <node type="RIL_WORD" X="1518" Y="1192" W="158" H="42">Значение</node>
+</node>
+<node type="RIL_TEXTLINE" X="700" Y="1194" W="164" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="700" Y="1194" W="164" H="40">Значение</node>
+</node>
+<node type="RIL_TEXTLINE" X="1536" Y="1972" W="170" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="1536" Y="1972" W="170" H="42">29,750,0</node>
+</node>
+<node type="RIL_TEXTLINE" X="1434" Y="2330" W="174" H="40" angle="0.000000000">
+    <node type="RIL_WORD" X="1434" Y="2330" W="173" H="40">09.03.2022</node>
+</node>
+<node type="RIL_TEXTLINE" X="1538" Y="2082" W="184" H="62" angle="-0.000000000">
+    <node type="RIL_WORD" X="1538" Y="2082" W="184" H="62">0050,74</node>
+</node>
+<node type="RIL_TEXTLINE" X="1024" Y="1836" W="188" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1024" Y="1836" W="51" H="38">128</node>
+    <node type="RIL_WORD" X="1137" Y="1836" W="74" H="38">Бк/кг</node>
+</node>
+<node type="RIL_TEXTLINE" X="1216" Y="1194" W="190" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1216" Y="1194" W="190" H="38">показателя</node>
+</node>
+<node type="RIL_TEXTLINE" X="1492" Y="2196" W="198" H="66" angle="-0.000000000">
+    <node type="RIL_WORD" X="1492" Y="2196" W="126" H="66">(0=0,5</node>
+    <node type="RIL_WORD" X="1645" Y="2196" W="45" H="66">2,0</node>
+</node>
+<node type="RIL_TEXTLINE" X="1126" Y="2060" W="200" H="50" angle="2.662994385">
+    <node type="RIL_WORD" X="1126" Y="2060" W="199" H="50">«ГСП-6»</node>
+</node>
+<node type="RIL_TEXTLINE" X="1536" Y="2022" W="202" H="62" angle="0.000000000">
+    <node type="RIL_WORD" X="1536" Y="2022" W="202" H="62">оэпря</node>
+</node>
+<node type="RIL_TEXTLINE" X="1676" Y="2264" W="204" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="1676" Y="2264" W="204" H="36">Рук.проекта</node>
+</node>
+<node type="RIL_TEXTLINE" X="1400" Y="2418" W="220" H="44" angle="-1.169139266">
+    <node type="RIL_WORD" X="1400" Y="2418" W="132" H="44">Королев</node>
+    <node type="RIL_WORD" X="1554" Y="2418" W="66" H="44">H.B.</node>
+</node>
+<node type="RIL_TEXTLINE" X="696" Y="520" W="226" H="54" angle="0.643745422">
+    <node type="RIL_WORD" X="696" Y="520" W="226" H="54">ПАСПОРТ</node>
+</node>
+<node type="RIL_TEXTLINE" X="446" Y="1120" W="228" H="44" angle="-0.000000000">
+    <node type="RIL_WORD" X="446" Y="1120" W="102" H="44">сухих</node>
+    <node type="RIL_WORD" X="563" Y="1120" W="110" H="44">смесей</node>
+</node>
+<node type="RIL_TEXTLINE" X="1640" Y="2338" W="230" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="1640" Y="2338" W="229" H="40">ДРобКИ/евскийИ</node>
+</node>
+<node type="RIL_TEXTLINE" X="1520" Y="1928" W="242" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="1520" Y="1928" W="89" H="42">Факт</node>
+    <node type="RIL_WORD" X="1658" Y="1928" W="103" H="42">Норма</node>
+</node>
+<node type="RIL_TEXTLINE" X="1680" Y="2300" W="244" H="40" angle="0.000000000">
+    <node type="RIL_WORD" X="1680" Y="2300" W="85" H="40">000/</node>
+    <node type="RIL_WORD" X="1783" Y="2300" W="140" H="40">«ГСПР-8»</node>
+</node>
+<node type="RIL_TEXTLINE" X="1290" Y="296" W="246" H="60" angle="-0.000000000">
+    <node type="RIL_WORD" X="1290" Y="296" W="246" H="60">ЧЛОДЕЛД</node>
+</node>
+<node type="RIL_TEXTLINE" X="942" Y="1192" W="246" H="42" angle="0.609504700">
+    <node type="RIL_WORD" X="942" Y="1192" W="246" H="42">Наименование</node>
+</node>
+<node type="RIL_TEXTLINE" X="176" Y="664" W="252" H="48" angle="-0.000000000">
+    <node type="RIL_WORD" X="176" Y="664" W="77" H="48">Дата</node>
+    <node type="RIL_WORD" X="267" Y="664" W="161" H="48">отгрузки:</node>
+</node>
+<node type="RIL_TEXTLINE" X="1224" Y="1126" W="262" H="36" angle="0.000000000">
+    <node type="RIL_WORD" X="1224" Y="1126" W="262" H="36">строительства</node>
+</node>
+<node type="RIL_TEXTLINE" X="268" Y="1264" W="266" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="268" Y="1264" W="105" H="36">Модуль</node>
+    <node type="RIL_WORD" X="389" Y="1264" W="144" H="36">крупности</node>
+</node>
+<node type="RIL_TEXTLINE" X="476" Y="664" W="268" H="44" angle="1.468803406">
+    <node type="RIL_WORD" X="476" Y="664" W="31" H="44">09</node>
+    <node type="RIL_WORD" X="527" Y="664" W="89" H="44">марта</node>
+    <node type="RIL_WORD" X="635" Y="664" W="63" H="44">2022</node>
+    <node type="RIL_WORD" X="718" Y="664" W="25" H="44">г.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1032" Y="1536" W="284" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1032" Y="1536" W="81" H="34">Число</node>
+    <node type="RIL_WORD" X="1128" Y="1536" W="187" H="34">пластичности</node>
+</node>
+<node type="RIL_TEXTLINE" X="412" Y="1030" W="284" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="412" Y="1030" W="96" H="42">ГОСТ</node>
+    <node type="RIL_WORD" X="541" Y="1030" W="154" H="42">8736-2014</node>
+</node>
+<node type="RIL_TEXTLINE" X="1024" Y="1666" W="286" H="28" angle="0.000000000">
+    <node type="RIL_WORD" X="1024" Y="1666" W="286" H="28">водопроницаемости</node>
+</node>
+<node type="RIL_TEXTLINE" X="1212" Y="1032" W="294" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="1212" Y="1032" W="98" H="40">ГОСТ</node>
+    <node type="RIL_WORD" X="1328" Y="1032" W="177" H="40">25100-2020</node>
+</node>
+<node type="RIL_TEXTLINE" X="1028" Y="1704" W="294" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1028" Y="1704" W="136" H="34">Насыпная</node>
+    <node type="RIL_WORD" X="1180" Y="1704" W="141" H="34">плотность</node>
+</node>
+<node type="RIL_TEXTLINE" X="508" Y="294" W="296" H="64" angle="0.971023560">
+    <node type="RIL_WORD" X="508" Y="294" W="296" H="64">)оть(ер</node>
+</node>
+<node type="RIL_TEXTLINE" X="1222" Y="826" W="306" H="72" angle="-1.060911775">
+    <node type="RIL_WORD" X="1222" Y="826" W="166" H="72">Объем:</node>
+    <node type="RIL_WORD" X="1402" Y="826" W="125" H="72">3008м</node>
+</node>
+<node type="RIL_TEXTLINE" X="826" Y="1306" W="308" H="40" angle="-0.395137072">
+    <node type="RIL_WORD" X="826" Y="1306" W="171" H="40">ЗЕРНОВОЙ</node>
+    <node type="RIL_WORD" X="1015" Y="1306" W="118" H="40">СОСТАВ</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="2152" W="314" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="172" Y="2152" W="108" H="40">Уголь,</node>
+    <node type="RIL_WORD" X="316" Y="2152" W="6" H="40">%</node>
+    <node type="RIL_WORD" X="341" Y="2152" W="36" H="40">по</node>
+    <node type="RIL_WORD" X="401" Y="2152" W="84" H="40">массе</node>
+</node>
+<node type="RIL_TEXTLINE" X="170" Y="2198" W="326" H="44" angle="-0.000000000">
+    <node type="RIL_WORD" X="170" Y="2198" W="119" H="44">Слюда,</node>
+    <node type="RIL_WORD" X="323" Y="2198" W="13" H="44">%</node>
+    <node type="RIL_WORD" X="356" Y="2198" W="33" H="44">по</node>
+    <node type="RIL_WORD" X="409" Y="2198" W="86" H="44">массе</node>
+</node>
+<node type="RIL_TEXTLINE" X="992" Y="666" W="344" H="44" angle="-0.572938681">
+    <node type="RIL_WORD" X="992" Y="666" W="191" H="44">Наряд-заказ</node>
+    <node type="RIL_WORD" X="1214" Y="666" W="19" H="44">№</node>
+    <node type="RIL_WORD" X="1253" Y="666" W="82" H="44">2052.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1420" Y="1642" W="352" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1420" Y="1642" W="352" H="38">Сильноводопроницаемый</node>
+</node>
+<node type="RIL_TEXTLINE" X="996" Y="1264" W="358" H="38" angle="0.451133728">
+    <node type="RIL_WORD" X="996" Y="1264" W="69" H="38">Класс</node>
+    <node type="RIL_WORD" X="1082" Y="1264" W="167" H="38">дисперсного</node>
+    <node type="RIL_WORD" X="1267" Y="1264" W="86" H="38">грунта</node>
+</node>
+<node type="RIL_TEXTLINE" X="992" Y="1624" W="360" H="34" angle="0.000000000">
+    <node type="RIL_WORD" X="1006" Y="1624" W="196" H="34">Разновидность</node>
+    <node type="RIL_WORD" X="1217" Y="1624" W="24" H="34">по</node>
+    <node type="RIL_WORD" X="1256" Y="1624" W="96" H="34">степени</node>
+</node>
+<node type="RIL_TEXTLINE" X="218" Y="1492" W="362" H="34" angle="0.000000000">
+    <node type="RIL_WORD" X="218" Y="1492" W="99" H="34">Проход</node>
+    <node type="RIL_WORD" X="332" Y="1492" W="69" H="34">через</node>
+    <node type="RIL_WORD" X="411" Y="1492" W="59" H="34">сито</node>
+    <node type="RIL_WORD" X="485" Y="1492" W="49" H="34">0,16</node>
+    <node type="RIL_WORD" X="550" Y="1492" W="29" H="34">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="218" Y="1534" W="362" H="38" angle="-0.395137072">
+    <node type="RIL_WORD" X="218" Y="1534" W="102" H="38">Проход</node>
+    <node type="RIL_WORD" X="332" Y="1534" W="72" H="38">через</node>
+    <node type="RIL_WORD" X="417" Y="1534" W="54" H="38">сито</node>
+    <node type="RIL_WORD" X="483" Y="1534" W="54" H="38">0,05</node>
+    <node type="RIL_WORD" X="555" Y="1534" W="24" H="38">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="988" Y="1582" W="370" H="34" angle="0.000000000">
+    <node type="RIL_WORD" X="988" Y="1582" W="189" H="34">Коэффициент</node>
+    <node type="RIL_WORD" X="1193" Y="1582" W="164" H="34">фильтрации</node>
+</node>
+<node type="RIL_TEXTLINE" X="792" Y="2340" W="376" H="118" angle="-13.582962990">
+    <node type="RIL_WORD" X="792" Y="2340" W="163" H="118">Служда</node>
+    <node type="RIL_WORD" X="971" Y="2340" W="196" H="118">каоюства</node>
+</node>
+<node type="RIL_TEXTLINE" X="830" Y="300" W="384" H="50" angle="-2.694284439">
+    <node type="RIL_WORD" X="830" Y="300" W="38" H="50">УЛ.</node>
+    <node type="RIL_WORD" X="876" Y="300" W="145" H="50">Заводская,</node>
+    <node type="RIL_WORD" X="1037" Y="300" W="46" H="50">д.8,</node>
+    <node type="RIL_WORD" X="1091" Y="300" W="53" H="50">каб.</node>
+    <node type="RIL_WORD" X="1152" Y="300" W="61" H="50">203-</node>
+</node>
+<node type="RIL_TEXTLINE" X="1392" Y="424" W="388" H="44" angle="0.000000000">
+    <node type="RIL_WORD" X="1392" Y="424" W="77" H="44">ООО</node>
+    <node type="RIL_WORD" X="1482" Y="424" W="155" H="44">&quot;ГСП-6&quot;</node>
+    <node type="RIL_WORD" X="1650" Y="424" W="71" H="44">инн.</node>
+    <node type="RIL_WORD" X="1734" Y="424" W="45" H="44">844</node>
+</node>
+<node type="RIL_TEXTLINE" X="206" Y="1642" W="388" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="206" Y="1642" W="147" H="34">Содержание</node>
+    <node type="RIL_WORD" X="368" Y="1642" W="63" H="34">зерен</node>
+    <node type="RIL_WORD" X="446" Y="1642" W="63" H="34">менее</node>
+    <node type="RIL_WORD" X="520" Y="1642" W="34" H="34">0,1</node>
+    <node type="RIL_WORD" X="569" Y="1642" W="24" H="34">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="772" Y="2294" W="396" H="120" angle="-13.150948524">
+    <node type="RIL_WORD" X="772" Y="2294" W="46" H="120">АО</node>
+    <node type="RIL_WORD" X="834" Y="2294" W="116" H="120">«ЛСР</node>
+    <node type="RIL_WORD" X="966" Y="2294" W="201" H="120">Базовые»</node>
+</node>
+<node type="RIL_TEXTLINE" X="200" Y="1580" W="398" H="36" angle="0.298416138">
+    <node type="RIL_WORD" X="200" Y="1580" W="164" H="36">Содержание</node>
+    <node type="RIL_WORD" X="376" Y="1580" W="85" H="36">глины</node>
+    <node type="RIL_WORD" X="478" Y="1580" W="5" H="36">в</node>
+    <node type="RIL_WORD" X="501" Y="1580" W="96" H="36">комках</node>
+</node>
+<node type="RIL_TEXTLINE" X="1322" Y="1832" W="402" H="48" angle="-0.000000000">
+    <node type="RIL_WORD" X="1322" Y="1832" W="83" H="48">Класс</node>
+    <node type="RIL_WORD" X="1419" Y="1832" W="201" H="48">1(Аэфф&lt;370</node>
+    <node type="RIL_WORD" X="1633" Y="1832" W="90" H="48">Бк/кг)</node>
+</node>
+<node type="RIL_TEXTLINE" X="198" Y="1400" W="404" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="198" Y="1400" W="110" H="36">Полный</node>
+    <node type="RIL_WORD" X="318" Y="1400" W="104" H="36">остаток</node>
+    <node type="RIL_WORD" X="439" Y="1400" W="26" H="36">на</node>
+    <node type="RIL_WORD" X="476" Y="1400" W="57" H="36">сите</node>
+    <node type="RIL_WORD" X="549" Y="1400" W="5" H="36">5</node>
+    <node type="RIL_WORD" X="575" Y="1400" W="26" H="36">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="968" Y="1356" W="412" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="968" Y="1356" W="111" H="34">Полный</node>
+    <node type="RIL_WORD" X="1095" Y="1356" W="101" H="34">остаток</node>
+    <node type="RIL_WORD" X="1212" Y="1356" W="30" H="34">на</node>
+    <node type="RIL_WORD" X="1252" Y="1356" W="61" H="34">сите</node>
+    <node type="RIL_WORD" X="1324" Y="1356" W="10" H="34">2</node>
+    <node type="RIL_WORD" X="1354" Y="1356" W="25" H="34">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="190" Y="1356" W="420" H="34" angle="0.000000000">
+    <node type="RIL_WORD" X="190" Y="1356" W="108" H="34">Полный</node>
+    <node type="RIL_WORD" X="313" Y="1356" W="103" H="34">остаток</node>
+    <node type="RIL_WORD" X="432" Y="1356" W="24" H="34">на</node>
+    <node type="RIL_WORD" X="471" Y="1356" W="54" H="34">сите</node>
+    <node type="RIL_WORD" X="540" Y="1356" W="24" H="34">10</node>
+    <node type="RIL_WORD" X="580" Y="1356" W="29" H="34">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="962" Y="1400" W="426" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="962" Y="1400" W="114" H="36">Полный</node>
+    <node type="RIL_WORD" X="1086" Y="1400" W="103" H="36">остаток</node>
+    <node type="RIL_WORD" X="1200" Y="1400" W="31" H="36">на</node>
+    <node type="RIL_WORD" X="1242" Y="1400" W="57" H="36">сите</node>
+    <node type="RIL_WORD" X="1310" Y="1400" W="36" H="36">0,5</node>
+    <node type="RIL_WORD" X="1362" Y="1400" W="25" H="36">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="960" Y="1492" W="428" H="32" angle="0.000000000">
+    <node type="RIL_WORD" X="960" Y="1492" W="108" H="32">Полный</node>
+    <node type="RIL_WORD" X="1082" Y="1492" W="103" H="32">остаток</node>
+    <node type="RIL_WORD" X="1199" Y="1492" W="28" H="32">на</node>
+    <node type="RIL_WORD" X="1242" Y="1492" W="56" H="32">сите</node>
+    <node type="RIL_WORD" X="1312" Y="1492" W="32" H="32">0,1</node>
+    <node type="RIL_WORD" X="1359" Y="1492" W="28" H="32">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="166" Y="2328" W="438" H="48" angle="-0.000000000">
+    <node type="RIL_WORD" X="166" Y="2328" W="62" H="48">Дата</node>
+    <node type="RIL_WORD" X="242" Y="2328" W="194" H="48">составления</node>
+    <node type="RIL_WORD" X="451" Y="2328" W="152" H="48">паспорта:</node>
+</node>
+<node type="RIL_TEXTLINE" X="954" Y="1444" W="440" H="36" angle="-0.329282463">
+    <node type="RIL_WORD" X="954" Y="1444" W="111" H="36">Полный</node>
+    <node type="RIL_WORD" X="1076" Y="1444" W="100" H="36">остаток</node>
+    <node type="RIL_WORD" X="1193" Y="1444" W="27" H="36">на</node>
+    <node type="RIL_WORD" X="1232" Y="1444" W="55" H="36">сите</node>
+    <node type="RIL_WORD" X="1299" Y="1444" W="50" H="36">0,25</node>
+    <node type="RIL_WORD" X="1366" Y="1444" W="27" H="36">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="180" Y="1444" W="440" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="180" Y="1444" W="108" H="36">Полный</node>
+    <node type="RIL_WORD" X="304" Y="1444" W="98" H="36">остаток</node>
+    <node type="RIL_WORD" X="418" Y="1444" W="25" H="36">на</node>
+    <node type="RIL_WORD" X="459" Y="1444" W="51" H="36">сите</node>
+    <node type="RIL_WORD" X="526" Y="1444" W="46" H="36">0,63</node>
+    <node type="RIL_WORD" X="594" Y="1444" W="25" H="36">мм</node>
+</node>
+<node type="RIL_TEXTLINE" X="180" Y="1192" W="442" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="180" Y="1192" W="245" H="42">Наименование</node>
+    <node type="RIL_WORD" X="443" Y="1192" W="178" H="42">показателя</node>
+</node>
+<node type="RIL_TEXTLINE" X="170" Y="2424" W="450" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="170" Y="2424" W="159" H="40">Начальник</node>
+    <node type="RIL_WORD" X="346" Y="2424" W="113" H="40">службы</node>
+    <node type="RIL_WORD" X="477" Y="2424" W="142" H="40">качества:</node>
+</node>
+<node type="RIL_TEXTLINE" X="940" Y="388" W="464" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="940" Y="388" W="203" H="36">Наименование,</node>
+    <node type="RIL_WORD" X="1154" Y="388" W="71" H="36">адрес</node>
+    <node type="RIL_WORD" X="1235" Y="388" W="168" H="36">покупателя:</node>
+</node>
+<node type="RIL_TEXTLINE" X="176" Y="2556" W="1589" H="41" angle="0.000000000">
+    <node type="RIL_WORD" X="176" Y="2556" W="28" H="41">По</node>
+    <node type="RIL_WORD" X="227" Y="2556" W="119" H="41">вопросам</node>
+    <node type="RIL_WORD" X="369" Y="2556" W="170" H="41">подлинности</node>
+    <node type="RIL_WORD" X="557" Y="2556" W="96" H="41">данного</node>
+    <node type="RIL_WORD" X="660" Y="2556" W="136" H="41">документа</node>
+    <node type="RIL_WORD" X="813" Y="2556" W="159" H="41">обращаться</node>
+    <node type="RIL_WORD" X="990" Y="2556" W="11" H="41">в</node>
+    <node type="RIL_WORD" X="1024" Y="2556" W="210" H="41">Пспытательную</node>
+    <node type="RIL_WORD" X="1241" Y="2556" W="176" H="41">лабораторию</node>
+    <node type="RIL_WORD" X="1434" Y="2556" W="125" H="41">нерудных</node>
+    <node type="RIL_WORD" X="1577" Y="2556" W="187" H="41">строительных</node>
+</node>
+<node type="RIL_TEXTLINE" X="752" Y="2374" W="492" H="150" angle="-13.418707848">
+    <node type="RIL_WORD" X="752" Y="2374" W="253" H="150">испытательная</node>
+    <node type="RIL_WORD" X="1021" Y="2374" W="215" H="150">ЛАБОРАТОРИЯ</node>
+</node>
+<node type="RIL_TEXTLINE" X="540" Y="2198" W="510" H="72" angle="-0.000000000">
+    <node type="RIL_WORD" X="540" Y="2198" W="333" H="72">аспорт</node>
+    <node type="RIL_WORD" X="904" Y="2198" W="31" H="72">с</node>
+    <node type="RIL_WORD" X="1008" Y="2198" W="41" H="72">uc</node>
+</node>
+<node type="RIL_TEXTLINE" X="320" Y="168" W="1237" H="39" angle="0.000000000">
+    <node type="RIL_WORD" X="320" Y="168" W="162" H="39">Фактический</node>
+    <node type="RIL_WORD" X="492" Y="168" W="75" H="39">адрес:</node>
+    <node type="RIL_WORD" X="584" Y="168" W="140" H="39">Российская</node>
+    <node type="RIL_WORD" X="741" Y="168" W="145" H="39">Федерация,</node>
+    <node type="RIL_WORD" X="892" Y="168" W="97" H="39">199155,</node>
+    <node type="RIL_WORD" X="1000" Y="168" W="16" H="39">г.</node>
+    <node type="RIL_WORD" X="1033" Y="168" W="226" H="39">Санкт-Петербург,</node>
+    <node type="RIL_WORD" X="1270" Y="168" W="37" H="39">пр.</node>
+    <node type="RIL_WORD" X="1319" Y="168" W="86" H="39">КИМа,</node>
+    <node type="RIL_WORD" X="1416" Y="168" W="21" H="39">д.</node>
+    <node type="RIL_WORD" X="1448" Y="168" W="32" H="39">19,</node>
+    <node type="RIL_WORD" X="1486" Y="168" W="48" H="39">лит.</node>
+    <node type="RIL_WORD" X="1551" Y="168" W="5" H="39">А</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="250" W="1617" H="46" angle="0.000000000">
+    <node type="RIL_WORD" X="172" Y="250" W="168" H="46">Юридический</node>
+    <node type="RIL_WORD" X="346" Y="250" W="81" H="46">адрес:</node>
+    <node type="RIL_WORD" X="440" Y="250" W="143" H="46">Российская</node>
+    <node type="RIL_WORD" X="596" Y="250" W="149" H="46">Федерация,1</node>
+    <node type="RIL_WORD" X="752" Y="250" W="81" H="46">88751,</node>
+    <node type="RIL_WORD" X="846" Y="250" W="187" H="46">Ленинградская</node>
+    <node type="RIL_WORD" X="1046" Y="250" W="56" H="46">обл.,</node>
+    <node type="RIL_WORD" X="1114" Y="250" W="162" H="46">Приозерский</node>
+    <node type="RIL_WORD" X="1289" Y="250" W="43" H="46">р-н,</node>
+    <node type="RIL_WORD" X="1345" Y="250" W="43" H="46">г.п.</node>
+    <node type="RIL_WORD" X="1395" Y="250" W="193" H="46">Кузнечнинское,</node>
+    <node type="RIL_WORD" X="1601" Y="250" W="31" H="46">гп.</node>
+    <node type="RIL_WORD" X="1645" Y="250" W="143" H="46">Кузнечное,</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="1970" W="1319" H="49" angle="0.000000000">
+    <node type="RIL_WORD" X="172" Y="1970" W="172" H="49">Аморфные</node>
+    <node type="RIL_WORD" X="365" Y="1970" W="248" H="49">разновидности</node>
+    <node type="RIL_WORD" X="627" Y="1970" W="145" H="49">диоксида</node>
+    <node type="RIL_WORD" X="779" Y="1970" W="158" H="49">кремния,</node>
+    <node type="RIL_WORD" X="952" Y="1970" W="214" H="49">растворимые</node>
+    <node type="RIL_WORD" X="1187" Y="1970" W="6" H="49">в</node>
+    <node type="RIL_WORD" X="1200" Y="1970" W="151" H="49">щелочах,</node>
+    <node type="RIL_WORD" X="1366" Y="1970" W="124" H="49">ммолыл</node>
+</node>
+<node type="RIL_TEXTLINE" X="174" Y="1886" W="1261" H="43" angle="0.000000000">
+    <node type="RIL_WORD" X="174" Y="1886" W="23" H="43">9.</node>
+    <node type="RIL_WORD" X="215" Y="1886" W="197" H="43">Содержание</node>
+    <node type="RIL_WORD" X="430" Y="1886" W="137" H="43">вредных</node>
+    <node type="RIL_WORD" X="586" Y="1886" W="209" H="43">компонентов</node>
+    <node type="RIL_WORD" X="801" Y="1886" W="11" H="43">и</node>
+    <node type="RIL_WORD" X="831" Y="1886" W="143" H="43">примесей</node>
+    <node type="RIL_WORD" X="980" Y="1886" W="233" H="43">соответствует</node>
+    <node type="RIL_WORD" X="1231" Y="1886" W="203" H="43">требованиям</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="1928" W="622" H="42" angle="0.210647583">
+    <node type="RIL_WORD" X="172" Y="1928" W="92" H="42">ГОСТ</node>
+    <node type="RIL_WORD" X="282" Y="1928" W="166" H="42">8736-2014,</node>
+    <node type="RIL_WORD" X="461" Y="1928" W="203" H="42">приложение</node>
+    <node type="RIL_WORD" X="676" Y="1928" W="117" H="42">&quot;А&quot;№V/f</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="2064" W="636" H="42" angle="-0.225572765">
+    <node type="RIL_WORD" X="172" Y="2064" W="97" H="42">Пирит</node>
+    <node type="RIL_WORD" X="288" Y="2064" W="12" H="42">в</node>
+    <node type="RIL_WORD" X="318" Y="2064" W="159" H="42">пересчете</node>
+    <node type="RIL_WORD" X="490" Y="2064" W="30" H="42">на</node>
+    <node type="RIL_WORD" X="545" Y="2064" W="67" H="42">SO3,</node>
+    <node type="RIL_WORD" X="649" Y="2064" W="6" H="42">%</node>
+    <node type="RIL_WORD" X="673" Y="2064" W="30" H="42">по</node>
+    <node type="RIL_WORD" X="728" Y="2064" W="79" H="42">массе</node>
+</node>
+<node type="RIL_TEXTLINE" X="188" Y="1078" W="738" H="46" angle="0.502586365">
+    <node type="RIL_WORD" X="188" Y="1078" W="86" H="46">Песок</node>
+    <node type="RIL_WORD" X="294" Y="1078" W="53" H="46">для</node>
+    <node type="RIL_WORD" X="360" Y="1078" W="119" H="46">бетона,</node>
+    <node type="RIL_WORD" X="493" Y="1078" W="232" H="46">железобетона,</node>
+    <node type="RIL_WORD" X="739" Y="1078" W="166" H="46">растворов</node>
+    <node type="RIL_WORD" X="919" Y="1078" W="6" H="46">и</node>
+</node>
+<node type="RIL_TEXTLINE" X="174" Y="1836" W="766" H="44" angle="-0.000000000">
+    <node type="RIL_WORD" X="174" Y="1836" W="24" H="44">8.</node>
+    <node type="RIL_WORD" X="217" Y="1836" W="124" H="44">Удельн.</node>
+    <node type="RIL_WORD" X="354" Y="1836" W="174" H="44">эффетивн.</node>
+    <node type="RIL_WORD" X="541" Y="1836" W="186" H="44">активность</node>
+    <node type="RIL_WORD" X="746" Y="1836" W="174" H="44">ЕРН:АЭФФ</node>
+    <node type="RIL_WORD" X="933" Y="1836" W="6" H="44">=</node>
+</node>
+<node type="RIL_TEXTLINE" X="968" Y="1076" W="782" H="46" angle="-0.000000000">
+    <node type="RIL_WORD" X="968" Y="1076" W="260" H="46">Классификация</node>
+    <node type="RIL_WORD" X="1241" Y="1076" W="130" H="46">грунтов</node>
+    <node type="RIL_WORD" X="1385" Y="1076" W="52" H="46">для</node>
+    <node type="RIL_WORD" X="1456" Y="1076" W="267" H="46">проектирования</node>
+    <node type="RIL_WORD" X="1743" Y="1076" W="6" H="46">и</node>
+</node>
+<node type="RIL_TEXTLINE" X="576" Y="2594" W="796" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="576" Y="2594" W="153" H="38">материалов</node>
+    <node type="RIL_WORD" X="751" Y="2594" W="31" H="38">АО</node>
+    <node type="RIL_WORD" X="798" Y="2594" W="74" H="38">«ЛСР.</node>
+    <node type="RIL_WORD" X="889" Y="2594" W="122" H="38">Базовые»,</node>
+    <node type="RIL_WORD" X="1021" Y="2594" W="63" H="38">тел.:</node>
+    <node type="RIL_WORD" X="1101" Y="2594" W="116" H="38">777-77-45</node>
+    <node type="RIL_WORD" X="1234" Y="2594" W="58" H="38">(доб.</node>
+    <node type="RIL_WORD" X="1303" Y="2594" W="68" H="38">5220)</node>
+</node>
+<node type="RIL_TEXTLINE" X="584" Y="212" W="796" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="584" Y="212" W="183" H="36">Свидетельство</node>
+    <node type="RIL_WORD" X="783" Y="212" W="25" H="36">об</node>
+    <node type="RIL_WORD" X="818" Y="212" W="137" H="36">аттестации</node>
+    <node type="RIL_WORD" X="971" Y="212" W="158" H="36">лаборатории</node>
+    <node type="RIL_WORD" X="1160" Y="212" W="5" H="36">№</node>
+    <node type="RIL_WORD" X="1181" Y="212" W="199" H="36">SP01.01.106.047</node>
+</node>
+<node type="RIL_TEXTLINE" X="530" Y="562" W="820" H="72" angle="-1.548157811">
+    <node type="RIL_WORD" X="530" Y="562" W="31" H="72">на</node>
+    <node type="RIL_WORD" X="572" Y="562" W="127" H="72">цартию</node>
+    <node type="RIL_WORD" X="711" Y="562" W="127" H="72">готовой</node>
+    <node type="RIL_WORD" X="860" Y="562" W="181" H="72">продукции</node>
+    <node type="RIL_WORD" X="1073" Y="562" W="21" H="72">№</node>
+    <node type="RIL_WORD" X="1115" Y="562" W="149" H="72">428-18120</node>
+    <node type="RIL_WORD" X="1286" Y="562" W="10" H="72">=</node>
+    <node type="RIL_WORD" X="1339" Y="562" W="10" H="72">(</node>
+</node>
+<node type="RIL_TEXTLINE" X="174" Y="840" W="840" H="66" angle="-0.000000000">
+    <node type="RIL_WORD" X="174" Y="840" W="27" H="66">2.</node>
+    <node type="RIL_WORD" X="219" Y="840" W="237" H="66">Наименование</node>
+    <node type="RIL_WORD" X="466" Y="840" W="91" H="66">цеха;</node>
+    <node type="RIL_WORD" X="612" Y="840" W="191" H="66">ГГФ(Цех</node>
+    <node type="RIL_WORD" X="813" Y="840" W="155" H="66">&quot;Тарайка</node>
+    <node type="RIL_WORD" X="986" Y="840" W="27" H="66">3&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="510" Y="122" W="852" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="510" Y="122" W="211" H="42">Акционерное</node>
+    <node type="RIL_WORD" X="733" Y="122" W="152" H="42">общество</node>
+    <node type="RIL_WORD" X="897" Y="122" W="105" H="42">&quot;ЛСР.</node>
+    <node type="RIL_WORD" X="1021" Y="122" W="129" H="42">Базовые</node>
+    <node type="RIL_WORD" X="1168" Y="122" W="193" H="42">материалы&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="2016" W="916" H="44" angle="-0.000000000">
+    <node type="RIL_WORD" X="172" Y="2016" W="160" H="44">Сульфаты</node>
+    <node type="RIL_WORD" X="351" Y="2016" W="12" H="44">и</node>
+    <node type="RIL_WORD" X="382" Y="2016" W="160" H="44">сульфиды</node>
+    <node type="RIL_WORD" X="561" Y="2016" W="12" H="44">в</node>
+    <node type="RIL_WORD" X="586" Y="2016" W="160" H="44">пересчете</node>
+    <node type="RIL_WORD" X="759" Y="2016" W="37" H="44">на</node>
+    <node type="RIL_WORD" X="809" Y="2016" W="61" H="44">SO3</node>
+    <node type="RIL_WORD" X="883" Y="2016" W="12" H="44">,</node>
+    <node type="RIL_WORD" X="927" Y="2016" W="6" H="44">%</node>
+    <node type="RIL_WORD" X="951" Y="2016" W="30" H="44">п</node>
+    <node type="RIL_WORD" X="1001" Y="2016" W="86" H="44">мage</node>
+</node>
+<node type="RIL_TEXTLINE" X="174" Y="1792" W="1004" H="40" angle="-0.000000000">
+    <node type="RIL_WORD" X="174" Y="1792" W="18" H="40">7.</node>
+    <node type="RIL_WORD" X="198" Y="1792" W="226" H="40">Органические</node>
+    <node type="RIL_WORD" X="443" Y="1792" W="165" H="40">примеси:</node>
+    <node type="RIL_WORD" X="633" Y="1792" W="140" H="40">окраска</node>
+    <node type="RIL_WORD" X="792" Y="1792" W="153" H="40">раствора</node>
+    <node type="RIL_WORD" X="963" Y="1792" W="128" H="40">светлее</node>
+    <node type="RIL_WORD" X="1104" Y="1792" W="73" H="40">эталона</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="2106" W="1004" H="48" angle="-0.250198334">
+    <node type="RIL_WORD" X="172" Y="2106" W="170" H="48">Галоидные</node>
+    <node type="RIL_WORD" X="364" Y="2106" W="185" H="48">соединения</node>
+    <node type="RIL_WORD" X="563" Y="2106" W="14" H="48">в</node>
+    <node type="RIL_WORD" X="592" Y="2106" W="156" H="48">пересчете</node>
+    <node type="RIL_WORD" X="763" Y="2106" W="35" H="48">на</node>
+    <node type="RIL_WORD" X="812" Y="2106" W="49" H="48">ион</node>
+    <node type="RIL_WORD" X="884" Y="2106" W="99" H="48">хлора,</node>
+    <node type="RIL_WORD" X="1019" Y="2106" W="7" H="48">%</node>
+    <node type="RIL_WORD" X="1040" Y="2106" W="135" H="48">номассе</node>
+</node>
+<node type="RIL_TEXTLINE" X="174" Y="758" W="1034" H="44" angle="-0.000000000">
+    <node type="RIL_WORD" X="174" Y="758" W="12" H="44">1.</node>
+    <node type="RIL_WORD" X="205" Y="758" W="241" H="44">Наименование</node>
+    <node type="RIL_WORD" X="465" Y="758" W="190" H="44">продукции:</node>
+    <node type="RIL_WORD" X="668" Y="758" W="120" H="44">&quot;Песок</node>
+    <node type="RIL_WORD" X="808" Y="758" W="50" H="44">для</node>
+    <node type="RIL_WORD" X="878" Y="758" W="234" H="44">строительных</node>
+    <node type="RIL_WORD" X="1125" Y="758" W="82" H="44">работ&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="936" W="1054" H="46" angle="-0.000000000">
+    <node type="RIL_WORD" X="172" Y="936" W="19" H="46">3.</node>
+    <node type="RIL_WORD" X="211" Y="936" W="229" H="46">Нормативные</node>
+    <node type="RIL_WORD" X="453" Y="936" W="196" H="46">документы:</node>
+    <node type="RIL_WORD" X="669" Y="936" W="91" H="46">ГОСТ</node>
+    <node type="RIL_WORD" X="780" Y="936" W="170" H="46">8736-2014;</node>
+    <node type="RIL_WORD" X="964" Y="936" W="91" H="46">ГОСТ</node>
+    <node type="RIL_WORD" X="1075" Y="936" W="150" H="46">25100-2020</node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="174" y="1027" w="764" h="138"></node>
+    <node type="RIL_CELL" x="938" y="1027" w="844" h="138"></node>
+    <node type="RIL_CELL" x="174" y="1165" w="451" h="92"></node>
+    <node type="RIL_CELL" x="625" y="1165" w="313" h="92"></node>
+    <node type="RIL_CELL" x="938" y="1165" w="472" h="92"></node>
+    <node type="RIL_CELL" x="1410" y="1165" w="372" h="92"></node>
+    <node type="RIL_CELL" x="174" y="1258" w="451" h="45"></node>
+    <node type="RIL_CELL" x="624" y="1258" w="315" h="45"></node>
+    <node type="RIL_CELL" x="939" y="1258" w="472" h="45"></node>
+    <node type="RIL_CELL" x="1410" y="1258" w="372" h="45"></node>
+    <node type="RIL_CELL" x="174" y="1303" w="1608" h="46"></node>
+    <node type="RIL_CELL" x="174" y="1349" w="450" h="44"></node>
+    <node type="RIL_CELL" x="624" y="1349" w="314" h="44"></node>
+    <node type="RIL_CELL" x="938" y="1349" w="472" h="44"></node>
+    <node type="RIL_CELL" x="1410" y="1349" w="372" h="44"></node>
+    <node type="RIL_CELL" x="174" y="1393" w="450" h="46"></node>
+    <node type="RIL_CELL" x="624" y="1393" w="314" h="46"></node>
+    <node type="RIL_CELL" x="938" y="1393" w="471" h="45"></node>
+    <node type="RIL_CELL" x="1409" y="1393" w="373" h="46"></node>
+    <node type="RIL_CELL" x="174" y="1439" w="450" h="45"></node>
+    <node type="RIL_CELL" x="624" y="1439" w="314" h="45"></node>
+    <node type="RIL_CELL" x="938" y="1438" w="471" h="46"></node>
+    <node type="RIL_CELL" x="1409" y="1438" w="373" h="46"></node>
+    <node type="RIL_CELL" x="174" y="1484" w="450" h="44"></node>
+    <node type="RIL_CELL" x="624" y="1484" w="314" h="44"></node>
+    <node type="RIL_CELL" x="1409" y="1484" w="373" h="44"></node>
+    <node type="RIL_CELL" x="938" y="1484" w="471" h="44"></node>
+    <node type="RIL_CELL" x="173" y="1528" w="450" h="46"></node>
+    <node type="RIL_CELL" x="623" y="1528" w="315" h="46"></node>
+    <node type="RIL_CELL" x="938" y="1528" w="471" h="46"></node>
+    <node type="RIL_CELL" x="1409" y="1528" w="372" h="46"></node>
+    <node type="RIL_CELL" x="173" y="1574" w="450" h="45"></node>
+    <node type="RIL_CELL" x="623" y="1574" w="315" h="45"></node>
+    <node type="RIL_CELL" x="938" y="1574" w="471" h="45"></node>
+    <node type="RIL_CELL" x="1409" y="1574" w="372" h="45"></node>
+    <node type="RIL_CELL" x="1409" y="1619" w="372" h="78"></node>
+    <node type="RIL_CELL" x="173" y="1619" w="450" h="78"></node>
+    <node type="RIL_CELL" x="623" y="1619" w="315" h="78"></node>
+    <node type="RIL_CELL" x="938" y="1619" w="471" h="78"></node>
+    <node type="RIL_CELL" x="173" y="1697" w="450" h="45"></node>
+    <node type="RIL_CELL" x="623" y="1697" w="314" h="45"></node>
+    <node type="RIL_CELL" x="937" y="1697" w="472" h="45"></node>
+    <node type="RIL_CELL" x="1409" y="1697" w="372" h="45"></node>
+    <node type="RIL_CELL" x="173" y="1742" w="450" h="45"></node>
+    <node type="RIL_CELL" x="623" y="1742" w="314" h="44"></node>
+    <node type="RIL_CELL" x="937" y="1742" w="472" h="45"></node>
+    <node type="RIL_CELL" x="1409" y="1742" w="372" h="45"></node>
+</node>

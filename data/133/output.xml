@@ -1,0 +1,16 @@
+<node type="RIL_TEXTLINE" X="962" Y="750" W="400" H="48" angle="-0.000000000">
+    <node type="RIL_WORD" X="962" Y="750" W="53" H="48">(CП</node>
+    <node type="RIL_WORD" X="1035" Y="750" W="193" H="48">70.13330.2012</node>
+    <node type="RIL_WORD" X="1248" Y="750" W="73" H="48">прил.</node>
+    <node type="RIL_WORD" X="1335" Y="750" W="26" H="48">Б)</node>
+</node>
+<node type="RIL_TEXTLINE" X="796" Y="660" W="724" H="64" angle="0.000000000">
+    <node type="RIL_WORD" X="796" Y="660" W="19" H="64">№</node>
+    <node type="RIL_WORD" X="834" Y="660" W="685" H="64">4-3-2-40-410-SB1001-ВЕЛ/1</node>
+</node>
+<node type="RIL_TEXTLINE" X="772" Y="562" W="778" H="70" angle="-0.000000000">
+    <node type="RIL_WORD" X="772" Y="562" W="177" H="70">Журнал</node>
+    <node type="RIL_WORD" X="968" Y="562" W="265" H="70">сварочных</node>
+    <node type="RIL_WORD" X="1254" Y="562" W="137" H="70">работ</node>
+    <node type="RIL_WORD" X="1412" Y="562" W="137" H="70">(ЖСР)</node>
+</node>

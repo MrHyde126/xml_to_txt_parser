@@ -1,0 +1,96 @@
+<node type="RIL_TEXTLINE" X="1946" Y="2844" W="28" H="28" angle="78.690063477">
+    <node type="RIL_WORD" X="1946" Y="2844" W="28" H="28">К</node>
+</node>
+<node type="RIL_TEXTLINE" X="1388" Y="658" W="92" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1388" Y="658" W="92" H="38">Среда:</node>
+</node>
+<node type="RIL_TEXTLINE" X="1384" Y="732" W="100" H="38" angle="1.432098389">
+    <node type="RIL_WORD" X="1384" Y="732" W="100" H="38">Линия:</node>
+</node>
+<node type="RIL_TEXTLINE" X="1252" Y="498" W="114" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1252" Y="498" W="114" H="38">Объект:</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="302" W="122" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="172" Y="302" W="122" H="28">Заказчик</node>
+</node>
+<node type="RIL_TEXTLINE" X="292" Y="1786" W="190" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="292" Y="1786" W="92" H="38">Начало</node>
+    <node type="RIL_WORD" X="395" Y="1786" W="86" H="38">работ:</node>
+</node>
+<node type="RIL_TEXTLINE" X="170" Y="402" W="194" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="170" Y="402" W="194" H="34">Генподрядчик</node>
+</node>
+<node type="RIL_TEXTLINE" X="172" Y="500" W="196" H="36" angle="0.000000000">
+    <node type="RIL_WORD" X="172" Y="500" W="196" H="36">Субподрядчик</node>
+</node>
+<node type="RIL_TEXTLINE" X="1254" Y="298" W="202" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="1254" Y="298" W="202" H="36">Строительство:</node>
+</node>
+<node type="RIL_TEXTLINE" X="1580" Y="680" W="224" H="36" angle="-0.924045444">
+    <node type="RIL_WORD" X="1580" Y="680" W="224" H="36">углеводородов</node>
+</node>
+<node type="RIL_TEXTLINE" X="242" Y="1870" W="240" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="242" Y="1870" W="145" H="38">Окончание</node>
+    <node type="RIL_WORD" X="398" Y="1870" W="83" H="38">работ:</node>
+</node>
+<node type="RIL_TEXTLINE" X="1570" Y="336" W="244" H="36" angle="-0.520856321">
+    <node type="RIL_WORD" X="1570" Y="336" W="196" H="36">территории</node>
+    <node type="RIL_WORD" X="1784" Y="336" W="29" H="36">АО</node>
+</node>
+<node type="RIL_TEXTLINE" X="536" Y="1870" W="250" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="536" Y="1870" W="21" H="38">13</node>
+    <node type="RIL_WORD" X="574" Y="1870" W="92" H="38">января</node>
+    <node type="RIL_WORD" X="688" Y="1870" W="65" H="38">2021</node>
+    <node type="RIL_WORD" X="758" Y="1870" W="27" H="38">г.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1560" Y="732" W="268" H="34" angle="-0.000000000">
+    <node type="RIL_WORD" X="1560" Y="732" W="267" H="34">0120-HHD-1053-00</node>
+</node>
+<node type="RIL_TEXTLINE" X="1556" Y="634" W="276" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="1556" Y="634" W="112" H="42">Дренаж</node>
+    <node type="RIL_WORD" X="1687" Y="634" W="144" H="42">тяжелых</node>
+</node>
+<node type="RIL_TEXTLINE" X="520" Y="1784" W="282" H="40" angle="0.000000000">
+    <node type="RIL_WORD" X="520" Y="1784" W="28" H="40">24</node>
+    <node type="RIL_WORD" X="566" Y="1784" W="115" H="40">октября</node>
+    <node type="RIL_WORD" X="704" Y="1784" W="63" H="40">2019</node>
+    <node type="RIL_WORD" X="778" Y="1784" W="23" H="40">г.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1548" Y="520" W="298" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="1548" Y="520" W="143" H="36">Комплекс</node>
+    <node type="RIL_WORD" X="1707" Y="520" W="138" H="36">ЭЛОУ-АВТ</node>
+</node>
+<node type="RIL_TEXTLINE" X="1524" Y="290" W="338" H="38" angle="0.000000000">
+    <node type="RIL_WORD" X="1524" Y="290" W="138" H="38">Комплекс</node>
+    <node type="RIL_WORD" X="1679" Y="290" W="144" H="38">ЭЛОУ-АВТ</node>
+    <node type="RIL_WORD" X="1834" Y="290" W="27" H="38">на</node>
+</node>
+<node type="RIL_TEXTLINE" X="1528" Y="376" W="340" H="38" angle="0.000000000">
+    <node type="RIL_WORD" X="1528" Y="376" W="340" H="38">&quot;Газпромнефть-ОНПЗ&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="504" Y="296" W="392" H="38" angle="-0.502581716">
+    <node type="RIL_WORD" X="504" Y="296" W="34" H="38">АО</node>
+    <node type="RIL_WORD" X="550" Y="296" W="345" H="38">&quot;Газпромнефть-ОНПЗ&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="816" Y="1310" W="464" H="46" angle="-0.000000000">
+    <node type="RIL_WORD" X="816" Y="1310" W="33" H="46">по</node>
+    <node type="RIL_WORD" X="869" Y="1310" W="127" H="46">сварке</node>
+    <node type="RIL_WORD" X="1011" Y="1310" W="268" H="46">трубопровода</node>
+</node>
+<node type="RIL_TEXTLINE" X="462" Y="398" W="476" H="38" angle="0.000000000">
+    <node type="RIL_WORD" X="462" Y="398" W="54" H="38">ПАО</node>
+    <node type="RIL_WORD" X="526" Y="398" W="135" H="38">&quot;Газпром</node>
+    <node type="RIL_WORD" X="678" Y="398" W="259" H="38">автоматизация&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="420" Y="492" W="558" H="46" angle="-0.000000000">
+    <node type="RIL_WORD" X="420" Y="492" W="58" H="46">ООО</node>
+    <node type="RIL_WORD" X="491" Y="492" W="45" H="46">ГСИ</node>
+    <node type="RIL_WORD" X="556" Y="492" W="207" H="46">Волгоградская</node>
+    <node type="RIL_WORD" X="776" Y="492" W="97" H="46">фирма</node>
+    <node type="RIL_WORD" X="880" Y="492" W="97" H="46">&quot;НЗМ&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="742" Y="1252" W="598" H="48" angle="0.000000000">
+    <node type="RIL_WORD" X="742" Y="1252" W="137" H="48">Журнал</node>
+    <node type="RIL_WORD" X="920" Y="1252" W="20" H="48">№</node>
+    <node type="RIL_WORD" X="996" Y="1252" W="343" H="48">0120-HHD-1053-00</node>
+</node>

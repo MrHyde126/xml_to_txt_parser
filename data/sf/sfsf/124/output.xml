@@ -1,0 +1,6 @@
+<node type="RIL_TEXTLINE" X="100" Y="204" W="336" H="50" angle="-0.000000000">
+    <node type="RIL_WORD" X="100" Y="204" W="42" H="50">In</node>
+    <node type="RIL_WORD" X="164" Y="204" W="71" H="50">God</node>
+    <node type="RIL_WORD" X="264" Y="204" W="57" H="50">We</node>
+    <node type="RIL_WORD" X="343" Y="204" W="92" H="50">Trust</node>
+</node>

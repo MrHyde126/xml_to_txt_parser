@@ -1,0 +1,170 @@
+<node type="RIL_TEXTLINE" X="1476" Y="368" W="118" H="100" angle="-0.000000000">
+    <node type="RIL_WORD" X="1476" Y="368" W="118" H="100">X</node>
+</node>
+<node type="RIL_TEXTLINE" X="1628" Y="464" W="304" H="72" angle="-0.000000000">
+    <node type="RIL_WORD" X="1628" Y="464" W="304" H="72">pigtails</node>
+</node>
+<node type="RIL_TEXTLINE" X="1626" Y="534" W="428" H="86" angle="-0.000000000">
+    <node type="RIL_WORD" X="1626" Y="534" W="168" H="86">plug</node>
+    <node type="RIL_WORD" X="1924" Y="534" W="129" H="86">play</node>
+</node>
+<node type="RIL_TEXTLINE" X="1626" Y="384" W="428" H="76" angle="0.451133728">
+    <node type="RIL_WORD" X="1626" Y="384" W="168" H="76">clips</node>
+    <node type="RIL_WORD" X="1840" Y="384" W="45" H="76">8</node>
+    <node type="RIL_WORD" X="1930" Y="384" W="123" H="76">pins</node>
+</node>
+<node type="RIL_TEXTLINE" X="294" Y="456" W="562" H="86" angle="0.296867371">
+    <node type="RIL_WORD" X="294" Y="456" W="561" H="86">Дупатiсs</node>
+</node>
+<node type="RIL_TEXTLINE" X="140" Y="358" W="716" H="114" angle="-0.000000000">
+    <node type="RIL_WORD" X="140" Y="358" W="715" H="114">npector</node>
+</node>
+<node type="RIL_TEXTLINE" X="528" Y="796" W="1290" H="116" angle="0.460189819">
+    <node type="RIL_WORD" X="528" Y="796" W="181" H="116">Part</node>
+    <node type="RIL_WORD" X="776" Y="796" W="82" H="116">#:</node>
+    <node type="RIL_WORD" X="908" Y="796" W="909" H="116">1000.20.02.60.11.4</node>
+</node>
+<node type="RIL_TEXTLINE" X="240" Y="666" W="1570" H="126" angle="0.386604309">
+    <node type="RIL_WORD" X="240" Y="666" W="460" H="126">Application:</node>
+    <node type="RIL_WORD" X="751" Y="666" W="153" H="126">MR2</node>
+    <node type="RIL_WORD" X="956" Y="666" W="221" H="126">Turbo</node>
+    <node type="RIL_WORD" X="1212" Y="666" W="273" H="126">90-96/</node>
+    <node type="RIL_WORD" X="1536" Y="666" W="273" H="126">3S-GTE</node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="808" y="860" w="442" h="123"></node>
+    <node type="RIL_CELL" x="627" y="1013" w="51" h="51"></node>
+    <node type="RIL_CELL" x="577" y="730" w="234" h="129"></node>
+    <node type="RIL_CELL" x="1242" y="743" w="33" h="132"></node>
+    <node type="RIL_CELL" x="584" y="966" w="12" h="8"></node>
+    <node type="RIL_CELL" x="596" y="967" w="16" h="7"></node>
+    <node type="RIL_CELL" x="756" y="969" w="21" h="28"></node>
+    <node type="RIL_CELL" x="778" y="969" w="18" h="9"></node>
+    <node type="RIL_CELL" x="1233" y="968" w="16" h="5"></node>
+    <node type="RIL_CELL" x="489" y="974" w="22" h="10"></node>
+    <node type="RIL_CELL" x="512" y="974" w="16" h="11"></node>
+    <node type="RIL_CELL" x="583" y="974" w="13" h="11"></node>
+    <node type="RIL_CELL" x="596" y="974" w="17" h="33"></node>
+    <node type="RIL_CELL" x="819" y="957" w="431" h="96"></node>
+    <node type="RIL_CELL" x="718" y="974" w="13" h="13"></node>
+    <node type="RIL_CELL" x="756" y="969" w="39" h="28"></node>
+    <node type="RIL_CELL" x="795" y="976" w="12" h="14"></node>
+    <node type="RIL_CELL" x="583" y="985" w="23" h="40"></node>
+    <node type="RIL_CELL" x="473" y="985" w="35" h="126"></node>
+    <node type="RIL_CELL" x="473" y="985" w="39" h="126"></node>
+    <node type="RIL_CELL" x="705" y="957" w="25" h="44"></node>
+    <node type="RIL_CELL" x="756" y="984" w="448" h="143"></node>
+    <node type="RIL_CELL" x="511" y="985" w="17" h="14"></node>
+    <node type="RIL_CELL" x="1239" y="990" w="28" h="69"></node>
+    <node type="RIL_CELL" x="705" y="989" w="12" h="24"></node>
+    <node type="RIL_CELL" x="718" y="999" w="12" h="26"></node>
+    <node type="RIL_CELL" x="583" y="985" w="95" h="41"></node>
+    <node type="RIL_CELL" x="678" y="1013" w="27" h="7"></node>
+    <node type="RIL_CELL" x="705" y="1013" w="12" h="7"></node>
+    <node type="RIL_CELL" x="538" y="1014" w="23" h="33"></node>
+    <node type="RIL_CELL" x="688" y="1020" w="17" h="5"></node>
+    <node type="RIL_CELL" x="705" y="1020" w="12" h="5"></node>
+    <node type="RIL_CELL" x="598" y="1025" w="30" h="14"></node>
+    <node type="RIL_CELL" x="688" y="1025" w="17" h="12"></node>
+    <node type="RIL_CELL" x="705" y="1025" w="13" h="40"></node>
+    <node type="RIL_CELL" x="717" y="1025" w="12" h="30"></node>
+    <node type="RIL_CELL" x="598" y="1039" w="41" h="25"></node>
+    <node type="RIL_CELL" x="667" y="1025" w="37" h="32"></node>
+    <node type="RIL_CELL" x="537" y="1036" w="23" h="33"></node>
+    <node type="RIL_CELL" x="1204" y="1039" w="12" h="13"></node>
+    <node type="RIL_CELL" x="1216" y="1039" w="17" h="21"></node>
+    <node type="RIL_CELL" x="559" y="1039" w="80" h="43"></node>
+    <node type="RIL_CELL" x="1204" y="1053" w="12" h="8"></node>
+    <node type="RIL_CELL" x="639" y="1058" w="65" h="24"></node>
+    <node type="RIL_CELL" x="717" y="1052" w="12" h="13"></node>
+    <node type="RIL_CELL" x="1233" y="1007" w="34" h="109"></node>
+    <node type="RIL_CELL" x="705" y="1058" w="23" h="46"></node>
+    <node type="RIL_CELL" x="1204" y="1061" w="12" h="7"></node>
+    <node type="RIL_CELL" x="1216" y="1055" w="23" h="13"></node>
+    <node type="RIL_CELL" x="705" y="1058" w="24" h="46"></node>
+    <node type="RIL_CELL" x="537" y="1069" w="22" h="11"></node>
+    <node type="RIL_CELL" x="1203" y="1068" w="12" h="19"></node>
+    <node type="RIL_CELL" x="1215" y="1068" w="23" h="40"></node>
+    <node type="RIL_CELL" x="1203" y="1087" w="12" h="21"></node>
+    <node type="RIL_CELL" x="792" y="1080" w="20" h="9"></node>
+    <node type="RIL_CELL" x="537" y="1080" w="22" h="10"></node>
+    <node type="RIL_CELL" x="558" y="1080" w="35" h="41"></node>
+    <node type="RIL_CELL" x="639" y="1082" w="89" h="22"></node>
+    <node type="RIL_CELL" x="587" y="1083" w="22" h="18"></node>
+    <node type="RIL_CELL" x="776" y="1089" w="16" h="8"></node>
+    <node type="RIL_CELL" x="792" y="1089" w="14" h="8"></node>
+    <node type="RIL_CELL" x="806" y="1089" w="11" h="8"></node>
+    <node type="RIL_CELL" x="755" y="1097" w="21" h="8"></node>
+    <node type="RIL_CELL" x="776" y="1097" w="16" h="8"></node>
+    <node type="RIL_CELL" x="792" y="1097" w="14" h="23"></node>
+    <node type="RIL_CELL" x="806" y="1098" w="12" h="26"></node>
+    <node type="RIL_CELL" x="525" y="1100" w="33" h="22"></node>
+    <node type="RIL_CELL" x="676" y="1102" w="52" h="19"></node>
+    <node type="RIL_CELL" x="592" y="1101" w="17" h="21"></node>
+    <node type="RIL_CELL" x="609" y="1101" w="17" h="21"></node>
+    <node type="RIL_CELL" x="1215" y="1094" w="23" h="34"></node>
+    <node type="RIL_CELL" x="755" y="1106" w="21" h="18"></node>
+    <node type="RIL_CELL" x="776" y="1106" w="17" h="18"></node>
+    <node type="RIL_CELL" x="1202" y="1107" w="13" h="19"></node>
+    <node type="RIL_CELL" x="508" y="1111" w="17" h="11"></node>
+    <node type="RIL_CELL" x="1238" y="1116" w="28" h="12"></node>
+    <node type="RIL_CELL" x="667" y="1013" w="21" h="12"></node>
+    <node type="RIL_CELL" x="627" y="1025" w="13" h="39"></node>
+    <node type="RIL_CELL" x="587" y="1064" w="52" h="18"></node>
+    <node type="RIL_CELL" x="705" y="957" w="13" h="44"></node>
+    <node type="RIL_CELL" x="718" y="954" w="13" h="20"></node>
+    <node type="RIL_CELL" x="778" y="955" w="18" h="14"></node>
+    <node type="RIL_CELL" x="596" y="954" w="17" h="13"></node>
+    <node type="RIL_CELL" x="511" y="953" w="17" h="21"></node>
+    <node type="RIL_CELL" x="473" y="953" w="17" h="32"></node>
+    <node type="RIL_CELL" x="490" y="953" w="22" h="21"></node>
+    <node type="RIL_CELL" x="1242" y="707" w="27" h="36"></node>
+    <node type="RIL_CELL" x="528" y="954" w="34" h="21"></node>
+    <node type="RIL_CELL" x="668" y="954" w="38" h="59"></node>
+    <node type="RIL_CELL" x="768" y="703" w="44" h="30"></node>
+    <node type="RIL_CELL" x="577" y="703" w="191" h="124"></node>
+    <node type="RIL_CELL" x="819" y="957" w="420" h="96"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="379" y="376" w="210" h="70"></node>
+    <node type="RIL_CELL" x="584" y="394" w="949" h="52"></node>
+    <node type="RIL_CELL" x="662" y="395" w="61" h="51"></node>
+    <node type="RIL_CELL" x="1533" y="413" w="21" h="31"></node>
+    <node type="RIL_CELL" x="1533" y="377" w="21" h="36"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="222" y="395" w="64" h="59"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="932" y="488" w="110" h="27"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1719" y="717" w="65" h="301"></node>
+</node>
+<node type="RIL_TABLE"></node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1372" y="709" w="29" h="30"></node>
+</node>
+<node type="RIL_TABLE"></node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1310" y="969" w="28" h="7"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1561" y="964" w="41" h="56"></node>
+    <node type="RIL_CELL" x="1563" y="1020" w="39" h="102"></node>
+    <node type="RIL_CELL" x="1472" y="1112" w="22" h="8"></node>
+    <node type="RIL_CELL" x="1473" y="1120" w="28" h="11"></node>
+    <node type="RIL_CELL" x="1561" y="964" w="12" h="56"></node>
+    <node type="RIL_CELL" x="1572" y="964" w="17" h="8"></node>
+    <node type="RIL_CELL" x="1472" y="1105" w="22" h="7"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1647" y="1097" w="17" h="15"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="1110" y="1100" w="22" h="15"></node>
+    <node type="RIL_CELL" x="1132" y="1100" w="38" h="12"></node>
+    <node type="RIL_CELL" x="1109" y="1113" w="22" h="13"></node>
+    <node type="RIL_CELL" x="1131" y="1113" w="16" h="14"></node>
+    <node type="RIL_CELL" x="1147" y="1113" w="29" h="14"></node>
+</node>

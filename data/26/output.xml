@@ -1,0 +1,8 @@
+<node type="RIL_TEXTLINE" X="314" Y="8" W="374" H="74" angle="-0.000000000">
+    <node type="RIL_WORD" X="314" Y="8" W="374" H="74">двустороние</node>
+</node>
+<node type="RIL_TEXTLINE" X="686" Y="4" W="902" H="78" angle="-0.000000000">
+    <node type="RIL_WORD" X="686" Y="4" W="367" H="78">обязывающий</node>
+    <node type="RIL_WORD" X="1109" Y="4" W="100" H="78">или</node>
+    <node type="RIL_WORD" X="1242" Y="4" W="345" H="78">одностороние</node>
+</node>

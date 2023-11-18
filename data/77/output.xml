@@ -1,0 +1,15 @@
+<node type="RIL_TEXTLINE" X="2246" Y="308" W="396" H="36" angle="-0.000000000">
+    <node type="RIL_WORD" X="2246" Y="308" W="81" H="36">ГОСТ</node>
+    <node type="RIL_WORD" X="2342" Y="308" W="172" H="36">32569-2013,</node>
+    <node type="RIL_WORD" X="2535" Y="308" W="86" H="36">форма</node>
+    <node type="RIL_WORD" X="2636" Y="308" W="5" H="36">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1000" Y="820" W="840" H="66" angle="-0.000000000">
+    <node type="RIL_WORD" X="1000" Y="820" W="840" H="66">4.2.3.30.324-3-30-331045</node>
+</node>
+<node type="RIL_TEXTLINE" X="726" Y="708" W="1378" H="72" angle="-0.183053002">
+    <node type="RIL_WORD" X="726" Y="708" W="292" H="72">ЖУРНАЛ</node>
+    <node type="RIL_WORD" X="1060" Y="708" W="93" H="72">ПО</node>
+    <node type="RIL_WORD" X="1195" Y="708" W="260" H="72">СВАРКЕ</node>
+    <node type="RIL_WORD" X="1498" Y="708" W="605" H="72">ТРУБОПРОВОДОВ</node>
+</node>

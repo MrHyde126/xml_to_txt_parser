@@ -1,0 +1,1366 @@
+<node type="RIL_TEXTLINE" X="1760" Y="1232" W="10" H="24" angle="90.000000000">
+    <node type="RIL_WORD" X="1760" Y="1232" W="10" H="24">900</node>
+</node>
+<node type="RIL_TEXTLINE" X="896" Y="1294" W="10" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="896" Y="1294" W="10" H="14">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1552" Y="1022" W="10" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1552" Y="1022" W="10" H="42">80us0</node>
+</node>
+<node type="RIL_TEXTLINE" X="1752" Y="612" W="10" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1752" Y="612" W="10" H="14">+</node>
+</node>
+<node type="RIL_TEXTLINE" X="2312" Y="1020" W="10" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="2312" Y="1020" W="10" H="40">В0107</node>
+</node>
+<node type="RIL_TEXTLINE" X="372" Y="276" W="10" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="372" Y="276" W="10" H="12">1</node>
+</node>
+<node type="RIL_TEXTLINE" X="2434" Y="224" W="10" H="14" angle="90.000000000">
+    <node type="RIL_WORD" X="2434" Y="224" W="10" H="14">4N</node>
+</node>
+<node type="RIL_TEXTLINE" X="2120" Y="1148" W="10" H="38" angle="90.000000000">
+    <node type="RIL_WORD" X="2120" Y="1148" W="10" H="38">в0118</node>
+</node>
+<node type="RIL_TEXTLINE" X="1948" Y="1148" W="10" H="38" angle="90.000000000">
+    <node type="RIL_WORD" X="1948" Y="1148" W="10" H="38">+0053</node>
+</node>
+<node type="RIL_TEXTLINE" X="1232" Y="210" W="12" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="1232" Y="210" W="12" H="40">C0003</node>
+</node>
+<node type="RIL_TEXTLINE" X="1780" Y="990" W="12" H="8" angle="0.000000000">
+    <node type="RIL_WORD" X="1780" Y="990" W="12" H="8">m</node>
+</node>
+<node type="RIL_TEXTLINE" X="1584" Y="1012" W="12" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1584" Y="1012" W="12" H="42">в0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="2012" Y="1206" W="36" H="36" angle="90.000000000">
+    <node type="RIL_WORD" X="2012" Y="1206" W="36" H="20">В0135</node>
+    <node type="RIL_WORD" X="2012" Y="1228" W="36" H="13">ч-</node>
+</node>
+<node type="RIL_TEXTLINE" X="1946" Y="1026" W="12" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1946" Y="1026" W="12" H="44">s6107</node>
+</node>
+<node type="RIL_TEXTLINE" X="2722" Y="1790" W="12" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2722" Y="1790" W="12" H="22">5</node>
+</node>
+<node type="RIL_TEXTLINE" X="1752" Y="184" W="12" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1752" Y="184" W="12" H="16">I</node>
+</node>
+<node type="RIL_TEXTLINE" X="526" Y="1052" W="12" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="526" Y="1052" W="12" H="42">В0115</node>
+</node>
+<node type="RIL_TEXTLINE" X="364" Y="1046" W="12" H="32" angle="90.000000000">
+    <node type="RIL_WORD" X="364" Y="1046" W="12" H="32">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2032" Y="522" W="12" H="38" angle="90.000000000">
+    <node type="RIL_WORD" X="2032" Y="522" W="12" H="38">:0056</node>
+</node>
+<node type="RIL_TEXTLINE" X="1768" Y="996" W="12" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1768" Y="996" W="12" H="42">В0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="1648" Y="1146" W="12" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1648" Y="1146" W="12" H="44">B0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="1950" Y="1308" W="12" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1950" Y="1308" W="12" H="42">В0071</node>
+</node>
+<node type="RIL_TEXTLINE" X="1512" Y="198" W="12" H="38" angle="-0.000000000">
+    <node type="RIL_WORD" X="1512" Y="198" W="11" H="38">оео9я</node>
+</node>
+<node type="RIL_TEXTLINE" X="2030" Y="994" W="12" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="2030" Y="994" W="12" H="4">В</node>
+    <node type="RIL_WORD" X="2030" Y="1013" W="12" H="24">132</node>
+</node>
+<node type="RIL_TEXTLINE" X="2020" Y="990" W="12" H="18" angle="0.000000000">
+    <node type="RIL_WORD" X="2020" Y="990" W="12" H="18">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="526" Y="1188" W="12" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="526" Y="1188" W="12" H="40">В0013</node>
+</node>
+<node type="RIL_TEXTLINE" X="1888" Y="1152" W="12" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="1888" Y="1152" W="12" H="40">В0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="1526" Y="1150" W="12" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1526" Y="1150" W="12" H="42">m0104</node>
+</node>
+<node type="RIL_TEXTLINE" X="1766" Y="1148" W="12" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1766" Y="1148" W="12" H="44">В0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="1826" Y="1146" W="12" H="46" angle="90.000000000">
+    <node type="RIL_WORD" X="1826" Y="1146" W="12" H="46">B0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="1628" Y="1140" W="12" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1628" Y="1140" W="12" H="44">В0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="2082" Y="986" W="12" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="2082" Y="986" W="12" H="12">0</node>
+</node>
+<node type="RIL_TEXTLINE" X="2640" Y="162" W="14" H="18" angle="90.000000000">
+    <node type="RIL_WORD" X="2640" Y="162" W="14" H="18">FHE</node>
+</node>
+<node type="RIL_TEXTLINE" X="1420" Y="440" W="14" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="1420" Y="440" W="14" H="12">IY</node>
+</node>
+<node type="RIL_TEXTLINE" X="1768" Y="382" W="14" H="34" angle="90.000000000">
+    <node type="RIL_WORD" X="1768" Y="382" W="14" H="34">2700</node>
+</node>
+<node type="RIL_TEXTLINE" X="1840" Y="1384" W="14" H="10" angle="0.000000000">
+    <node type="RIL_WORD" X="1840" Y="1384" W="14" H="10">JL</node>
+</node>
+<node type="RIL_TEXTLINE" X="320" Y="1292" W="14" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="320" Y="1292" W="14" H="14">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1884" Y="312" W="14" H="12" angle="26.565048218">
+    <node type="RIL_WORD" X="1884" Y="312" W="14" H="12">»%</node>
+</node>
+<node type="RIL_TEXTLINE" X="392" Y="1242" W="14" H="28" angle="90.000000000">
+    <node type="RIL_WORD" X="392" Y="1242" W="14" H="28">850</node>
+</node>
+<node type="RIL_TEXTLINE" X="1330" Y="194" W="14" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="1330" Y="194" W="14" H="40">0024</node>
+</node>
+<node type="RIL_TEXTLINE" X="2312" Y="1196" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="2312" Y="1196" W="14" H="44">80095</node>
+</node>
+<node type="RIL_TEXTLINE" X="1412" Y="196" W="14" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="1412" Y="196" W="14" H="40">C0023</node>
+</node>
+<node type="RIL_TEXTLINE" X="2236" Y="1200" W="14" H="42" angle="-0.000000000">
+    <node type="RIL_WORD" X="2236" Y="1200" W="14" H="42">ел</node>
+</node>
+<node type="RIL_TEXTLINE" X="1758" Y="1320" W="14" H="32" angle="90.000000000">
+    <node type="RIL_WORD" X="1758" Y="1320" W="14" H="32">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1514" Y="610" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1514" Y="610" W="14" H="44">C0050</node>
+</node>
+<node type="RIL_TEXTLINE" X="2422" Y="702" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="2422" Y="702" W="14" H="44">80062</node>
+</node>
+<node type="RIL_TEXTLINE" X="1884" Y="998" W="14" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1884" Y="998" W="14" H="42">В0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="396" Y="324" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="396" Y="324" W="14" H="44">B0209</node>
+</node>
+<node type="RIL_TEXTLINE" X="1840" Y="1392" W="14" H="8" angle="-0.000000000">
+    <node type="RIL_WORD" X="1840" Y="1392" W="14" H="8">M</node>
+</node>
+<node type="RIL_TEXTLINE" X="1768" Y="244" W="14" H="30" angle="90.000000000">
+    <node type="RIL_WORD" X="1768" Y="244" W="14" H="30">1850</node>
+</node>
+<node type="RIL_TEXTLINE" X="1778" Y="994" W="14" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1778" Y="994" W="14" H="14">*</node>
+</node>
+<node type="RIL_TEXTLINE" X="2616" Y="1792" W="14" H="20" angle="0.000000000">
+    <node type="RIL_WORD" X="2616" Y="1792" W="14" H="20">1</node>
+</node>
+<node type="RIL_TEXTLINE" X="434" Y="1192" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="434" Y="1192" W="14" H="44">B0185</node>
+</node>
+<node type="RIL_TEXTLINE" X="1848" Y="1304" W="14" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1848" Y="1304" W="14" H="42">V0053</node>
+</node>
+<node type="RIL_TEXTLINE" X="392" Y="1184" W="14" H="34" angle="90.000000000">
+    <node type="RIL_WORD" X="392" Y="1184" W="14" H="34">1050</node>
+</node>
+<node type="RIL_TEXTLINE" X="756" Y="1182" W="14" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="756" Y="1182" W="14" H="40">В0096</node>
+</node>
+<node type="RIL_TEXTLINE" X="480" Y="1182" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="480" Y="1182" W="14" H="44">В0131</node>
+</node>
+<node type="RIL_TEXTLINE" X="1880" Y="524" W="14" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1880" Y="524" W="14" H="42">C0058</node>
+</node>
+<node type="RIL_TEXTLINE" X="1372" Y="1042" W="14" H="34" angle="90.000000000">
+    <node type="RIL_WORD" X="1372" Y="1042" W="14" H="34">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2372" Y="1216" W="14" H="36" angle="90.000000000">
+    <node type="RIL_WORD" X="2372" Y="1216" W="14" H="36">1200</node>
+</node>
+<node type="RIL_TEXTLINE" X="1464" Y="1150" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1464" Y="1150" W="14" H="44">В0127</node>
+</node>
+<node type="RIL_TEXTLINE" X="634" Y="1034" W="14" H="46" angle="90.000000000">
+    <node type="RIL_WORD" X="634" Y="1034" W="14" H="46">В0119</node>
+</node>
+<node type="RIL_TEXTLINE" X="1278" Y="442" W="14" H="10" angle="-0.000000000">
+    <node type="RIL_WORD" X="1278" Y="442" W="14" H="10">I)</node>
+</node>
+<node type="RIL_TEXTLINE" X="2492" Y="1010" W="14" H="46" angle="90.000000000">
+    <node type="RIL_WORD" X="2492" Y="1010" W="14" H="46">В0119</node>
+</node>
+<node type="RIL_TEXTLINE" X="2130" Y="998" W="14" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="2130" Y="998" W="14" H="40">s008</node>
+</node>
+<node type="RIL_TEXTLINE" X="1708" Y="1146" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1708" Y="1146" W="14" H="44">В0120</node>
+</node>
+<node type="RIL_TEXTLINE" X="730" Y="1162" W="14" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="730" Y="1162" W="14" H="44">60140</node>
+</node>
+<node type="RIL_TEXTLINE" X="2372" Y="1140" W="14" H="32" angle="90.000000000">
+    <node type="RIL_WORD" X="2372" Y="1140" W="14" H="32">1300</node>
+</node>
+<node type="RIL_TEXTLINE" X="2070" Y="998" W="14" H="48" angle="90.000000000">
+    <node type="RIL_WORD" X="2070" Y="998" W="14" H="48">В0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="392" Y="1130" W="14" H="28" angle="90.000000000">
+    <node type="RIL_WORD" X="392" Y="1130" W="14" H="28">700</node>
+</node>
+<node type="RIL_TEXTLINE" X="342" Y="1126" W="14" H="34" angle="90.000000000">
+    <node type="RIL_WORD" X="342" Y="1126" W="14" H="34">4600</node>
+</node>
+<node type="RIL_TEXTLINE" X="644" Y="1124" W="14" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="644" Y="1124" W="14" H="40">8009</node>
+</node>
+<node type="RIL_TEXTLINE" X="2066" Y="130" W="14" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="2066" Y="130" W="14" H="24">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1286" Y="570" W="14" H="8" angle="0.000000000">
+    <node type="RIL_WORD" X="1286" Y="570" W="14" H="8">IT</node>
+</node>
+<node type="RIL_TEXTLINE" X="1952" Y="1112" W="14" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1952" Y="1112" W="14" H="14">S</node>
+</node>
+<node type="RIL_TEXTLINE" X="1230" Y="608" W="14" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="1230" Y="608" W="14" H="42">J034</node>
+</node>
+<node type="RIL_TEXTLINE" X="1372" Y="1154" W="16" H="32" angle="90.000000000">
+    <node type="RIL_WORD" X="1372" Y="1154" W="16" H="32">1600</node>
+</node>
+<node type="RIL_TEXTLINE" X="2490" Y="1122" W="16" H="46" angle="90.000000000">
+    <node type="RIL_WORD" X="2490" Y="1122" W="16" H="46">В0118</node>
+</node>
+<node type="RIL_TEXTLINE" X="2346" Y="196" W="16" H="48" angle="90.000000000">
+    <node type="RIL_WORD" X="2346" Y="196" W="16" H="48">В0029</node>
+</node>
+<node type="RIL_TEXTLINE" X="2388" Y="196" W="16" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="2388" Y="196" W="16" H="44">В0204</node>
+</node>
+<node type="RIL_TEXTLINE" X="1824" Y="998" W="16" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="1824" Y="998" W="16" H="44">В0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="2654" Y="210" W="16" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="2654" Y="210" W="16" H="42">В0108</node>
+</node>
+<node type="RIL_TEXTLINE" X="394" Y="248" W="16" H="42" angle="90.000000000">
+    <node type="RIL_WORD" X="394" Y="248" W="16" H="42">80208</node>
+</node>
+<node type="RIL_TEXTLINE" X="2448" Y="178" W="16" H="50" angle="90.000000000">
+    <node type="RIL_WORD" X="2448" Y="178" W="16" H="50">В0030</node>
+</node>
+<node type="RIL_TEXTLINE" X="342" Y="304" W="16" H="34" angle="90.000000000">
+    <node type="RIL_WORD" X="342" Y="304" W="16" H="34">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="406" Y="312" W="16" H="28" angle="90.000000000">
+    <node type="RIL_WORD" X="406" Y="312" W="16" H="28">th</node>
+</node>
+<node type="RIL_TEXTLINE" X="2414" Y="1276" W="16" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2414" Y="1276" W="16" H="18">4</node>
+</node>
+<node type="RIL_TEXTLINE" X="2512" Y="704" W="16" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="2512" Y="704" W="16" H="40">оО75ь</node>
+</node>
+<node type="RIL_TEXTLINE" X="2378" Y="718" W="16" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="2378" Y="718" W="16" H="40">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="362" Y="1186" W="16" H="36" angle="90.000000000">
+    <node type="RIL_WORD" X="362" Y="1186" W="16" H="36">2600</node>
+</node>
+<node type="RIL_TEXTLINE" X="1768" Y="536" W="16" H="36" angle="90.000000000">
+    <node type="RIL_WORD" X="1768" Y="536" W="16" H="36">2300</node>
+</node>
+<node type="RIL_TEXTLINE" X="766" Y="1058" W="16" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="766" Y="1058" W="16" H="44">В0089</node>
+</node>
+<node type="RIL_TEXTLINE" X="1706" Y="1000" W="16" H="44" angle="94.398712158">
+    <node type="RIL_WORD" X="1706" Y="1000" W="16" H="44">ь0132</node>
+</node>
+<node type="RIL_TEXTLINE" X="2674" Y="1120" W="16" H="44" angle="90.000000000">
+    <node type="RIL_WORD" X="2674" Y="1120" W="16" H="44">60122</node>
+</node>
+<node type="RIL_TEXTLINE" X="1814" Y="184" W="16" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1814" Y="184" W="16" H="20">+</node>
+</node>
+<node type="RIL_TEXTLINE" X="342" Y="190" W="16" H="40" angle="90.000000000">
+    <node type="RIL_WORD" X="342" Y="190" W="16" H="40">800</node>
+</node>
+<node type="RIL_TEXTLINE" X="640" Y="1108" W="16" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="640" Y="1108" W="16" H="12">x</node>
+</node>
+<node type="RIL_TEXTLINE" X="2018" Y="1104" W="16" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="2018" Y="1104" W="16" H="20">#</node>
+</node>
+<node type="RIL_TEXTLINE" X="1396" Y="546" W="16" H="10" angle="11.309928894">
+    <node type="RIL_WORD" X="1396" Y="546" W="16" H="10">*,</node>
+</node>
+<node type="RIL_TEXTLINE" X="2298" Y="192" W="18" H="48" angle="90.000000000">
+    <node type="RIL_WORD" X="2298" Y="192" W="18" H="48">В0041</node>
+</node>
+<node type="RIL_TEXTLINE" X="1368" Y="430" W="18" H="8" angle="0.000000000">
+    <node type="RIL_WORD" X="1368" Y="430" W="18" H="8">+1</node>
+</node>
+<node type="RIL_TEXTLINE" X="1250" Y="442" W="18" H="10" angle="-0.000000000">
+    <node type="RIL_WORD" X="1250" Y="442" W="18" H="10">()</node>
+</node>
+<node type="RIL_TEXTLINE" X="1644" Y="1000" W="18" H="42" angle="0.000000000">
+    <node type="RIL_WORD" X="1644" Y="1000" W="17" H="42">81</node>
+</node>
+<node type="RIL_TEXTLINE" X="2672" Y="1018" W="18" H="46" angle="90.000000000">
+    <node type="RIL_WORD" X="2672" Y="1018" W="18" H="46">B0173</node>
+</node>
+<node type="RIL_TEXTLINE" X="1748" Y="464" W="18" H="18" angle="0.000000000">
+    <node type="RIL_WORD" X="1748" Y="464" W="18" H="18">%</node>
+</node>
+<node type="RIL_TEXTLINE" X="1712" Y="986" W="18" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1712" Y="986" W="18" H="16">8</node>
+</node>
+<node type="RIL_TEXTLINE" X="1390" Y="550" W="20" H="14" angle="18.434951782">
+    <node type="RIL_WORD" X="1390" Y="550" W="20" H="14">*%</node>
+</node>
+<node type="RIL_TEXTLINE" X="1262" Y="596" W="20" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1262" Y="596" W="20" H="26">2</node>
+</node>
+<node type="RIL_TEXTLINE" X="2416" Y="198" W="22" H="34" angle="56.309936523">
+    <node type="RIL_WORD" X="2416" Y="198" W="22" H="34">7100</node>
+</node>
+<node type="RIL_TEXTLINE" X="1874" Y="1750" W="22" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="1874" Y="1750" W="22" H="18">и</node>
+</node>
+<node type="RIL_TEXTLINE" X="468" Y="1070" W="22" H="30" angle="122.005386353">
+    <node type="RIL_WORD" X="468" Y="1070" W="22" H="30">Bcooн</node>
+</node>
+<node type="RIL_TEXTLINE" X="458" Y="1104" W="22" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="458" Y="1104" W="22" H="16">4</node>
+</node>
+<node type="RIL_TEXTLINE" X="2246" Y="210" W="22" H="48" angle="90.000000000">
+    <node type="RIL_WORD" X="2246" Y="210" W="22" H="48">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2094" Y="1398" W="22" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2094" Y="1398" W="22" H="18">56</node>
+</node>
+<node type="RIL_TEXTLINE" X="464" Y="1462" W="24" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="464" Y="1462" W="24" H="14">750</node>
+</node>
+<node type="RIL_TEXTLINE" X="1970" Y="1474" W="24" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="1970" Y="1474" W="24" H="22">5</node>
+</node>
+<node type="RIL_TEXTLINE" X="510" Y="1460" W="24" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="510" Y="1460" W="24" H="16">750</node>
+</node>
+<node type="RIL_TEXTLINE" X="428" Y="416" W="24" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="428" Y="416" W="24" H="14">800</node>
+</node>
+<node type="RIL_TEXTLINE" X="1836" Y="1264" W="24" H="22" angle="33.690063477">
+    <node type="RIL_WORD" X="1836" Y="1264" W="24" H="22">a</node>
+</node>
+<node type="RIL_TEXTLINE" X="2506" Y="174" W="24" H="50" angle="90.000000000">
+    <node type="RIL_WORD" X="2506" Y="174" W="24" H="50">В0032</node>
+</node>
+<node type="RIL_TEXTLINE" X="1634" Y="1438" W="24" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1634" Y="1438" W="24" H="14">750</node>
+</node>
+<node type="RIL_TEXTLINE" X="2786" Y="1940" W="24" H="26" angle="11.309928894">
+    <node type="RIL_WORD" X="2786" Y="1940" W="24" H="26">3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1246" Y="154" W="26" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1246" Y="154" W="26" H="16">300</node>
+</node>
+<node type="RIL_TEXTLINE" X="1534" Y="986" W="26" H="20" angle="6.340187073">
+    <node type="RIL_WORD" X="1534" Y="986" W="26" H="20">Ф</node>
+</node>
+<node type="RIL_TEXTLINE" X="2314" Y="986" W="28" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2314" Y="986" W="28" H="14">Ф</node>
+</node>
+<node type="RIL_TEXTLINE" X="1788" Y="1398" W="28" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1788" Y="1398" W="28" H="20">5b</node>
+</node>
+<node type="RIL_TEXTLINE" X="1686" Y="1438" W="28" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1686" Y="1438" W="28" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2576" Y="394" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2576" Y="394" W="30" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1974" Y="114" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1974" Y="114" W="30" H="14">1250</node>
+</node>
+<node type="RIL_TEXTLINE" X="1898" Y="114" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1898" Y="114" W="30" H="14">1250</node>
+</node>
+<node type="RIL_TEXTLINE" X="1830" Y="114" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1830" Y="114" W="30" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1744" Y="1438" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1744" Y="1438" W="30" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1572" Y="1438" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1572" Y="1438" W="30" H="14">1250</node>
+</node>
+<node type="RIL_TEXTLINE" X="1502" Y="1438" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1502" Y="1438" W="30" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2178" Y="1436" W="30" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="2178" Y="1436" W="30" H="12">1350</node>
+</node>
+<node type="RIL_TEXTLINE" X="2108" Y="1436" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2108" Y="1436" W="30" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1926" Y="1436" W="30" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1926" Y="1436" W="30" H="16">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1866" Y="1436" W="30" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1866" Y="1436" W="30" H="16">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2410" Y="1434" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2410" Y="1434" W="30" H="14">3000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2270" Y="1434" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2270" Y="1434" W="30" H="14">1650</node>
+</node>
+<node type="RIL_TEXTLINE" X="1812" Y="1276" W="30" H="20" angle="0.000000000">
+    <node type="RIL_WORD" X="1812" Y="1276" W="30" H="20">t4</node>
+</node>
+<node type="RIL_TEXTLINE" X="2474" Y="882" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2474" Y="882" W="30" H="14">1500</node>
+</node>
+<node type="RIL_TEXTLINE" X="1378" Y="718" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1378" Y="718" W="30" H="14">7000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1468" Y="696" W="30" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1468" Y="696" W="30" H="14">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="1002" Y="414" W="30" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1002" Y="414" W="30" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="880" Y="414" W="30" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="880" Y="414" W="30" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="634" Y="448" W="32" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="634" Y="448" W="32" H="12">6000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="294" W="32" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1474" Y="294" W="32" H="16">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1212" Y="310" W="32" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1212" Y="310" W="32" H="14">V0034</node>
+</node>
+<node type="RIL_TEXTLINE" X="542" Y="416" W="32" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="542" Y="416" W="32" H="12">3000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2498" Y="1452" W="32" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2498" Y="1452" W="32" H="14">6000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1986" Y="1436" W="32" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1986" Y="1436" W="32" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1804" Y="1438" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1804" Y="1438" W="32" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2454" Y="394" W="32" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2454" Y="394" W="32" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="726" Y="416" W="32" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="726" Y="416" W="32" H="12">3000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2046" Y="1436" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="2046" Y="1436" W="32" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1274" Y="696" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1274" Y="696" W="32" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2590" Y="1434" W="32" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="2590" Y="1434" W="32" H="12">3000</node>
+</node>
+<node type="RIL_TEXTLINE" X="592" Y="1460" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="592" Y="1460" W="32" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="940" Y="446" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="940" Y="446" W="32" H="14">4000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1366" Y="124" W="32" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1366" Y="124" W="32" H="16">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="1466" Y="124" W="32" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1466" Y="124" W="32" H="16">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="282" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1474" Y="282" W="32" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="684" Y="1300" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="684" Y="1300" W="32" H="14">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1274" Y="126" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1274" Y="126" W="32" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1936" Y="642" W="32" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1936" Y="642" W="32" H="16">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="2042" Y="640" W="32" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2042" Y="640" W="32" H="18">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="746" Y="1298" W="32" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="746" Y="1298" W="32" H="16">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="714" Y="1460" W="32" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="714" Y="1460" W="32" H="14">2000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2350" Y="396" W="32" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2350" Y="396" W="32" H="14">1500</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="236" W="34" H="18" angle="0.000000000">
+    <node type="RIL_WORD" X="1474" Y="236" W="34" H="18">80069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="254" W="34" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1474" Y="254" W="34" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="2134" Y="1454" W="34" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="2134" Y="1454" W="34" H="14">6000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2064" Y="356" W="34" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2064" Y="356" W="34" H="22">111</node>
+</node>
+<node type="RIL_TEXTLINE" X="418" Y="362" W="34" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="418" Y="362" W="34" H="14">K0031</node>
+</node>
+<node type="RIL_TEXTLINE" X="2558" Y="234" W="34" H="26" angle="45.000000000">
+    <node type="RIL_WORD" X="2558" Y="234" W="34" H="26">е</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="282" W="34" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="1540" Y="282" W="34" H="12">B0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="294" W="34" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="1540" Y="294" W="34" H="12">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1366" Y="696" W="34" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1366" Y="696" W="34" H="14">2500</node>
+</node>
+<node type="RIL_TEXTLINE" X="2066" Y="1112" W="34" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="2066" Y="1112" W="34" H="16">Ф»</node>
+</node>
+<node type="RIL_TEXTLINE" X="758" Y="472" W="36" H="16" angle="-4.398705482">
+    <node type="RIL_WORD" X="758" Y="472" W="36" H="16">10000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="204" W="36" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1540" Y="204" W="36" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="222" W="36" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1540" Y="222" W="36" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="238" W="36" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1540" Y="238" W="36" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="256" W="36" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="1540" Y="256" W="36" H="12">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="418" Y="260" W="36" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="418" Y="260" W="36" H="14">K0032</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="206" W="36" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1474" Y="206" W="36" H="14">В0069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1540" Y="312" W="36" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1540" Y="312" W="36" H="14">В0068</node>
+</node>
+<node type="RIL_TEXTLINE" X="1742" Y="1456" W="36" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1742" Y="1456" W="36" H="14">7000</node>
+</node>
+<node type="RIL_TEXTLINE" X="416" Y="220" W="38" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="416" Y="220" W="38" H="16">К0030</node>
+</node>
+<node type="RIL_TEXTLINE" X="2234" Y="106" W="38" H="22" angle="0.000000000">
+    <node type="RIL_WORD" X="2234" Y="106" W="38" H="22">115</node>
+</node>
+<node type="RIL_TEXTLINE" X="2324" Y="266" W="38" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="2324" Y="266" W="38" H="16">В0043</node>
+</node>
+<node type="RIL_TEXTLINE" X="692" Y="1064" W="38" H="32" angle="45.000000000">
+    <node type="RIL_WORD" X="692" Y="1064" W="38" H="32">уол</node>
+</node>
+<node type="RIL_TEXTLINE" X="570" Y="1028" W="38" H="34" angle="33.690071106">
+    <node type="RIL_WORD" X="570" Y="1028" W="38" H="34">Н0009</node>
+</node>
+<node type="RIL_TEXTLINE" X="2394" Y="1098" W="38" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2394" Y="1098" W="38" H="14">В0178</node>
+</node>
+<node type="RIL_TEXTLINE" X="1806" Y="522" W="38" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1806" Y="522" W="38" H="20">112</node>
+</node>
+<node type="RIL_TEXTLINE" X="1940" Y="538" W="38" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1940" Y="538" W="38" H="20">113</node>
+</node>
+<node type="RIL_TEXTLINE" X="2112" Y="532" W="38" H="22" angle="0.000000000">
+    <node type="RIL_WORD" X="2112" Y="532" W="38" H="22">114</node>
+</node>
+<node type="RIL_TEXTLINE" X="418" Y="340" W="38" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="418" Y="340" W="38" H="14">К0031</node>
+</node>
+<node type="RIL_TEXTLINE" X="1804" Y="354" W="38" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="1804" Y="354" W="38" H="22">110</node>
+</node>
+<node type="RIL_TEXTLINE" X="296" Y="1306" W="38" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="296" Y="1306" W="29" H="14">Лист</node>
+    <node type="RIL_WORD" X="329" Y="1306" W="4" H="14">2</node>
+</node>
+<node type="RIL_TEXTLINE" X="1610" Y="1476" W="38" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1610" Y="1476" W="38" H="14">35400</node>
+</node>
+<node type="RIL_TEXTLINE" X="1918" Y="302" W="40" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="1918" Y="302" W="40" H="12">Boos7</node>
+</node>
+<node type="RIL_TEXTLINE" X="2386" Y="834" W="40" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2386" Y="834" W="40" H="22">118</node>
+</node>
+<node type="RIL_TEXTLINE" X="2392" Y="976" W="40" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="2392" Y="976" W="40" H="12">В0146</node>
+</node>
+<node type="RIL_TEXTLINE" X="2184" Y="1180" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2184" Y="1180" W="40" H="14">В0152</node>
+</node>
+<node type="RIL_TEXTLINE" X="2418" Y="264" W="40" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2418" Y="264" W="40" H="18">В0188</node>
+</node>
+<node type="RIL_TEXTLINE" X="666" Y="1266" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="666" Y="1266" W="40" H="14">В0129</node>
+</node>
+<node type="RIL_TEXTLINE" X="1446" Y="556" W="40" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1446" Y="556" W="40" H="16">В0150</node>
+</node>
+<node type="RIL_TEXTLINE" X="1352" Y="324" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1352" Y="324" W="40" H="14">В0139</node>
+</node>
+<node type="RIL_TEXTLINE" X="678" Y="178" W="40" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="678" Y="178" W="40" H="12">К0029</node>
+</node>
+<node type="RIL_TEXTLINE" X="1442" Y="170" W="40" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1442" Y="170" W="40" H="16">К0008</node>
+</node>
+<node type="RIL_TEXTLINE" X="2324" Y="152" W="40" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2324" Y="152" W="40" H="18">В0042</node>
+</node>
+<node type="RIL_TEXTLINE" X="498" Y="1292" W="40" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="498" Y="1292" W="40" H="12">В0184</node>
+</node>
+<node type="RIL_TEXTLINE" X="2036" Y="468" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="2036" Y="468" W="40" H="14">80003</node>
+</node>
+<node type="RIL_TEXTLINE" X="1922" Y="468" W="40" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="1922" Y="468" W="40" H="12">В0166</node>
+</node>
+<node type="RIL_TEXTLINE" X="2188" Y="1100" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="2188" Y="1100" W="40" H="14">В0180</node>
+</node>
+<node type="RIL_TEXTLINE" X="2094" Y="1416" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2094" Y="1416" W="40" H="14">Лист-2</node>
+</node>
+<node type="RIL_TEXTLINE" X="1666" Y="1220" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1666" Y="1220" W="40" H="14">В0175</node>
+</node>
+<node type="RIL_TEXTLINE" X="418" Y="284" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="418" Y="284" W="40" H="14">К0032</node>
+</node>
+<node type="RIL_TEXTLINE" X="2196" Y="976" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2196" Y="976" W="40" H="14">В0179</node>
+</node>
+<node type="RIL_TEXTLINE" X="2086" Y="1252" W="40" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2086" Y="1252" W="40" H="14">В0039</node>
+</node>
+<node type="RIL_TEXTLINE" X="1848" Y="1258" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1848" Y="1258" W="40" H="14">В0036</node>
+</node>
+<node type="RIL_TEXTLINE" X="1446" Y="428" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1446" Y="428" W="40" H="14">В0047</node>
+</node>
+<node type="RIL_TEXTLINE" X="2512" Y="424" W="40" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2512" Y="424" W="40" H="18">4000</node>
+</node>
+<node type="RIL_TEXTLINE" X="1734" Y="1088" W="40" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="1734" Y="1088" W="40" H="14">В0150</node>
+</node>
+<node type="RIL_TEXTLINE" X="1474" Y="220" W="40" H="16" angle="0.000000000">
+    <node type="RIL_WORD" X="1474" Y="220" W="40" H="16">80069</node>
+</node>
+<node type="RIL_TEXTLINE" X="1152" Y="1458" W="40" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1152" Y="1458" W="40" H="16">12400</node>
+</node>
+<node type="RIL_TEXTLINE" X="2392" Y="1178" W="42" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2392" Y="1178" W="42" H="14">В0169</node>
+</node>
+<node type="RIL_TEXTLINE" X="566" Y="1212" W="42" H="14" angle="0.000000000">
+    <node type="RIL_WORD" X="566" Y="1212" W="42" H="14">В0182</node>
+</node>
+<node type="RIL_TEXTLINE" X="2252" Y="338" W="42" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2252" Y="338" W="42" H="24">116</node>
+</node>
+<node type="RIL_TEXTLINE" X="1200" Y="568" W="42" H="26" angle="15.945396423">
+    <node type="RIL_WORD" X="1200" Y="568" W="42" H="26">рсгот</node>
+</node>
+<node type="RIL_TEXTLINE" X="414" Y="168" W="42" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="414" Y="168" W="42" H="14">К0030</node>
+</node>
+<node type="RIL_TEXTLINE" X="2410" Y="1300" W="42" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="2410" Y="1300" W="42" H="14">Лист-2</node>
+</node>
+<node type="RIL_TEXTLINE" X="2392" Y="628" W="42" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2392" Y="628" W="42" H="24">117</node>
+</node>
+<node type="RIL_TEXTLINE" X="678" Y="228" W="42" H="12" angle="-0.000000000">
+    <node type="RIL_WORD" X="678" Y="228" W="42" H="12">К0029</node>
+</node>
+<node type="RIL_TEXTLINE" X="970" Y="176" W="42" H="12" angle="0.000000000">
+    <node type="RIL_WORD" X="970" Y="176" W="42" H="12">К0012</node>
+</node>
+<node type="RIL_TEXTLINE" X="488" Y="1104" W="44" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="488" Y="1104" W="44" H="16">80183</node>
+</node>
+<node type="RIL_TEXTLINE" X="302" Y="1230" W="44" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="302" Y="1230" W="44" H="16">В0012</node>
+</node>
+<node type="RIL_TEXTLINE" X="1942" Y="1498" W="44" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1942" Y="1498" W="44" H="20">(4-4</node>
+</node>
+<node type="RIL_TEXTLINE" X="578" Y="982" W="44" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="578" Y="982" W="44" H="14">В0128</node>
+</node>
+<node type="RIL_TEXTLINE" X="1858" Y="1380" W="44" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="1858" Y="1380" W="44" H="16">В0036</node>
+</node>
+<node type="RIL_TEXTLINE" X="998" Y="226" W="44" H="16" angle="-0.000000000">
+    <node type="RIL_WORD" X="998" Y="226" W="44" H="16">К0012</node>
+</node>
+<node type="RIL_TEXTLINE" X="696" Y="1148" W="44" H="16" angle="0.000000000">
+    <node type="RIL_WORD" X="696" Y="1148" W="44" H="16">В0130</node>
+</node>
+<node type="RIL_TEXTLINE" X="1342" Y="416" W="46" H="18" angle="0.000000000">
+    <node type="RIL_WORD" X="1342" Y="416" W="46" H="18">(уOoдf</node>
+</node>
+<node type="RIL_TEXTLINE" X="1620" Y="978" W="46" H="16" angle="0.000000000">
+    <node type="RIL_WORD" X="1620" Y="978" W="46" H="16">В0181</node>
+</node>
+<node type="RIL_TEXTLINE" X="970" Y="202" W="46" H="22" angle="-11.309932709">
+    <node type="RIL_WORD" X="970" Y="202" W="46" H="22">40025</node>
+</node>
+<node type="RIL_TEXTLINE" X="848" Y="210" W="46" H="20" angle="6.340187073">
+    <node type="RIL_WORD" X="848" Y="210" W="46" H="20">Н0024</node>
+</node>
+<node type="RIL_TEXTLINE" X="706" Y="1102" W="46" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="706" Y="1102" W="46" H="18">В0144</node>
+</node>
+<node type="RIL_TEXTLINE" X="1490" Y="1124" W="46" H="16" angle="0.000000000">
+    <node type="RIL_WORD" X="1490" Y="1124" W="46" H="16">В0207</node>
+</node>
+<node type="RIL_TEXTLINE" X="1366" Y="530" W="46" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1366" Y="530" W="46" H="24">по.я</node>
+</node>
+<node type="RIL_TEXTLINE" X="2444" Y="678" W="48" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2444" Y="678" W="48" H="18">B0186</node>
+</node>
+<node type="RIL_TEXTLINE" X="2426" Y="152" W="48" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="2426" Y="152" W="48" H="18">В0187</node>
+</node>
+<node type="RIL_TEXTLINE" X="2446" Y="782" W="52" H="22" angle="-10.304846764">
+    <node type="RIL_WORD" X="2446" Y="782" W="52" H="22">80186</node>
+</node>
+<node type="RIL_TEXTLINE" X="1998" Y="1510" W="52" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="1998" Y="1510" W="51" H="14">DT-0009</node>
+</node>
+<node type="RIL_TEXTLINE" X="456" Y="982" W="52" H="14" angle="-0.000000000">
+    <node type="RIL_WORD" X="456" Y="982" W="51" H="14">780103</node>
+</node>
+<node type="RIL_TEXTLINE" X="2504" Y="906" W="54" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2504" Y="906" W="54" H="26">4-1</node>
+</node>
+<node type="RIL_TEXTLINE" X="2380" Y="472" W="54" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2380" Y="472" W="54" H="26">4-1</node>
+</node>
+<node type="RIL_TEXTLINE" X="2594" Y="1744" W="54" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="2594" Y="1744" W="54" H="20">Лист</node>
+</node>
+<node type="RIL_TEXTLINE" X="2712" Y="1488" W="54" H="24" angle="-2.602561951">
+    <node type="RIL_WORD" X="2712" Y="1488" W="54" H="24">(4-6</node>
+</node>
+<node type="RIL_TEXTLINE" X="1962" Y="1714" W="54" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1962" Y="1714" W="54" H="26">Дата</node>
+</node>
+<node type="RIL_TEXTLINE" X="1220" Y="748" W="56" H="26" angle="0.000000000">
+    <node type="RIL_WORD" X="1220" Y="748" W="56" H="26">4-3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1516" Y="1498" W="56" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1516" Y="1498" W="56" H="26">4-3</node>
+</node>
+<node type="RIL_TEXTLINE" X="514" Y="1500" W="56" H="30" angle="-2.385943890">
+    <node type="RIL_WORD" X="514" Y="1500" W="56" H="30">4-1</node>
+</node>
+<node type="RIL_TEXTLINE" X="2196" Y="286" W="56" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2196" Y="286" W="56" H="22">(4-А</node>
+</node>
+<node type="RIL_TEXTLINE" X="2318" Y="664" W="58" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2318" Y="664" W="58" H="26">4-В</node>
+</node>
+<node type="RIL_TEXTLINE" X="1502" Y="748" W="58" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="1502" Y="748" W="58" H="24">4-4</node>
+</node>
+<node type="RIL_TEXTLINE" X="2318" Y="788" W="58" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="2318" Y="788" W="58" H="24">4-А</node>
+</node>
+<node type="RIL_TEXTLINE" X="276" Y="988" W="58" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="276" Y="988" W="58" H="24">4-В</node>
+</node>
+<node type="RIL_TEXTLINE" X="2620" Y="470" W="58" H="28" angle="2.290611267">
+    <node type="RIL_WORD" X="2620" Y="470" W="58" H="28">4-2</node>
+</node>
+<node type="RIL_TEXTLINE" X="2196" Y="160" W="58" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2196" Y="160" W="58" H="24">4-В</node>
+</node>
+<node type="RIL_TEXTLINE" X="760" Y="1500" W="58" H="30" angle="0.000000000">
+    <node type="RIL_WORD" X="760" Y="1500" W="58" H="30">4-2</node>
+</node>
+<node type="RIL_TEXTLINE" X="276" Y="1112" W="58" H="22" angle="0.000000000">
+    <node type="RIL_WORD" X="276" Y="1112" W="58" H="22">4-А</node>
+</node>
+<node type="RIL_TEXTLINE" X="2302" Y="1496" W="58" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2302" Y="1496" W="58" H="24">4-5</node>
+</node>
+<node type="RIL_TEXTLINE" X="1044" Y="502" W="62" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1044" Y="502" W="62" H="24">10-1</node>
+</node>
+<node type="RIL_TEXTLINE" X="1842" Y="680" W="64" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1842" Y="680" W="64" H="26">10-В</node>
+</node>
+<node type="RIL_TEXTLINE" X="800" Y="502" W="64" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="800" Y="502" W="64" H="26">10-2</node>
+</node>
+<node type="RIL_TEXTLINE" X="244" Y="384" W="64" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="244" Y="384" W="64" H="28">10-А</node>
+</node>
+<node type="RIL_TEXTLINE" X="430" Y="504" W="64" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="430" Y="504" W="64" H="26">10-3</node>
+</node>
+<node type="RIL_TEXTLINE" X="1994" Y="678" W="64" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="1994" Y="678" W="64" H="28">10-А</node>
+</node>
+<node type="RIL_TEXTLINE" X="244" Y="230" W="64" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="244" Y="230" W="64" H="24">10-В</node>
+</node>
+<node type="RIL_TEXTLINE" X="1538" Y="918" W="70" H="16" angle="1.909149170">
+    <node type="RIL_WORD" X="1538" Y="918" W="23" H="16">,</node>
+    <node type="RIL_WORD" X="1566" Y="918" W="32" H="16">1000</node>
+</node>
+<node type="RIL_TEXTLINE" X="2692" Y="1744" W="76" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="2692" Y="1744" W="76" H="20">Листов</node>
+</node>
+<node type="RIL_TEXTLINE" X="1688" Y="1386" W="78" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1688" Y="1386" W="78" H="24">4-А/2</node>
+</node>
+<node type="RIL_TEXTLINE" X="1682" Y="1262" W="78" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1682" Y="1262" W="78" H="24">(4-А/17</node>
+</node>
+<node type="RIL_TEXTLINE" X="2484" Y="1744" W="80" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2484" Y="1744" W="80" H="22">Стадия</node>
+</node>
+<node type="RIL_TEXTLINE" X="1866" Y="1714" W="84" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1866" Y="1714" W="83" H="26">Подпись</node>
+</node>
+<node type="RIL_TEXTLINE" X="1606" Y="1782" W="90" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1606" Y="1782" W="90" H="26">Инженер</node>
+</node>
+<node type="RIL_TEXTLINE" X="1734" Y="1716" W="94" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1734" Y="1716" W="94" H="24">Фамилия</node>
+</node>
+<node type="RIL_TEXTLINE" X="1664" Y="446" W="106" H="20" angle="0.000000000">
+    <node type="RIL_WORD" X="1664" Y="446" W="106" H="20">236.800(TOS)</node>
+</node>
+<node type="RIL_TEXTLINE" X="1668" Y="586" W="108" H="20" angle="-0.000000000">
+    <node type="RIL_WORD" X="1668" Y="586" W="108" H="20">234.500(ВОВ)</node>
+</node>
+<node type="RIL_TEXTLINE" X="1662" Y="276" W="108" H="20" angle="0.000000000">
+    <node type="RIL_WORD" X="1662" Y="276" W="108" H="20">239.500(TOS</node>
+</node>
+<node type="RIL_TEXTLINE" X="1668" Y="162" W="108" H="18" angle="0.000000000">
+    <node type="RIL_WORD" X="1668" Y="162" W="108" H="18">241.350(ВОВ)</node>
+</node>
+<node type="RIL_TEXTLINE" X="1606" Y="1716" W="110" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1606" Y="1716" W="110" H="26">Должность</node>
+</node>
+<node type="RIL_TEXTLINE" X="1734" Y="1780" W="116" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="1734" Y="1780" W="85" H="24">Мерджан</node>
+    <node type="RIL_WORD" X="1832" Y="1780" W="17" H="24">М.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1606" Y="1750" W="122" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="1606" Y="1750" W="30" H="24">ГЛ.</node>
+    <node type="RIL_WORD" X="1645" Y="1750" W="82" H="24">инженер</node>
+</node>
+<node type="RIL_TEXTLINE" X="1734" Y="1748" W="124" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="1734" Y="1748" W="91" H="26">Дмитриев</node>
+    <node type="RIL_WORD" X="1835" Y="1748" W="22" H="26">MA</node>
+</node>
+<node type="RIL_TEXTLINE" X="1882" Y="74" W="158" H="18" angle="-0.000000000">
+    <node type="RIL_WORD" X="1882" Y="74" W="29" H="18">Axis</node>
+    <node type="RIL_WORD" X="1919" Y="74" W="29" H="18">10-3</node>
+    <node type="RIL_WORD" X="1956" Y="74" W="41" H="18">/OСИ</node>
+    <node type="RIL_WORD" X="2006" Y="74" W="33" H="18">10-3</node>
+</node>
+<node type="RIL_TEXTLINE" X="2480" Y="1944" W="178" H="28" angle="-0.000000000">
+    <node type="RIL_WORD" X="2480" Y="1944" W="121" H="28">Формат</node>
+    <node type="RIL_WORD" X="2627" Y="1944" W="30" H="28">А3</node>
+</node>
+<node type="RIL_TEXTLINE" X="2560" Y="1888" W="184" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2560" Y="1888" W="47" H="26">Хэви</node>
+    <node type="RIL_WORD" X="2619" Y="1888" W="124" H="26">Индастрис&quot;</node>
+</node>
+<node type="RIL_TEXTLINE" X="2556" Y="1860" W="194" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2556" Y="1860" W="46" H="24">ООО</node>
+    <node type="RIL_WORD" X="2610" Y="1860" W="139" H="24">&quot;Ренейссанс</node>
+</node>
+<node type="RIL_TEXTLINE" X="2126" Y="1816" W="252" H="20" angle="0.000000000">
+    <node type="RIL_WORD" X="2126" Y="1816" W="120" H="20">Конструкция</node>
+    <node type="RIL_WORD" X="2254" Y="1816" W="124" H="20">0630100001.</node>
+</node>
+<node type="RIL_TEXTLINE" X="2120" Y="1794" W="264" H="22" angle="0.000000000">
+    <node type="RIL_WORD" X="2120" Y="1794" W="140" H="22">водоочистных</node>
+    <node type="RIL_WORD" X="2268" Y="1794" W="115" H="22">сооружений</node>
+</node>
+<node type="RIL_TEXTLINE" X="2346" Y="86" W="272" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2346" Y="86" W="72" H="26">СХЕМА</node>
+    <node type="RIL_WORD" X="2431" Y="86" W="187" H="26">РАСПОЛОЖЕНИЯ</node>
+</node>
+<node type="RIL_TEXTLINE" X="2098" Y="1846" W="306" H="22" angle="-0.000000000">
+    <node type="RIL_WORD" X="2098" Y="1846" W="177" H="22">Исполнительная</node>
+    <node type="RIL_WORD" X="2284" Y="1846" W="66" H="22">схема</node>
+    <node type="RIL_WORD" X="2362" Y="1846" W="41" H="22">мест</node>
+</node>
+<node type="RIL_TEXTLINE" X="1230" Y="80" W="308" H="24" angle="0.000000000">
+    <node type="RIL_WORD" X="1230" Y="80" W="65" H="24">Разрез</node>
+    <node type="RIL_WORD" X="1308" Y="80" W="20" H="24">по</node>
+    <node type="RIL_WORD" X="1336" Y="80" W="32" H="24">оси</node>
+    <node type="RIL_WORD" X="1381" Y="80" W="28" H="24">4-А</node>
+    <node type="RIL_WORD" X="1423" Y="80" W="8" H="24">в</node>
+    <node type="RIL_WORD" X="1439" Y="80" W="28" H="24">осх</node>
+    <node type="RIL_WORD" X="1476" Y="80" W="61" H="24">4-3/4-4</node>
+</node>
+<node type="RIL_TEXTLINE" X="2082" Y="1742" W="340" H="22" angle="0.000000000">
+    <node type="RIL_WORD" X="2082" Y="1742" W="87" H="22">Эстакада</node>
+    <node type="RIL_WORD" X="2181" Y="1742" W="8" H="22">и</node>
+    <node type="RIL_WORD" X="2198" Y="1742" W="120" H="22">сооружения</node>
+    <node type="RIL_WORD" X="2326" Y="1742" W="95" H="22">площадки</node>
+</node>
+<node type="RIL_TEXTLINE" X="2330" Y="578" W="356" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2330" Y="578" W="24" H="24">НА</node>
+    <node type="RIL_WORD" X="2370" Y="578" W="48" H="24">ОТМ.</node>
+    <node type="RIL_WORD" X="2427" Y="578" W="133" H="24">243.000(TOS)</node>
+    <node type="RIL_WORD" X="2568" Y="578" W="28" H="24">ПО</node>
+    <node type="RIL_WORD" X="2609" Y="578" W="40" H="24">ОСИ</node>
+    <node type="RIL_WORD" X="2661" Y="578" W="24" H="24">4-1</node>
+</node>
+<node type="RIL_TEXTLINE" X="2068" Y="1766" W="368" H="24" angle="-0.502581656">
+    <node type="RIL_WORD" X="2068" Y="1766" W="136" H="24">водоочистных</node>
+    <node type="RIL_WORD" X="2216" Y="1766" W="124" H="24">сооружений.</node>
+    <node type="RIL_WORD" X="2353" Y="1766" W="82" H="24">Эстакада</node>
+</node>
+<node type="RIL_TEXTLINE" X="2298" Y="116" W="372" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2298" Y="116" W="130" H="24">ЭЛЕМЕНТОВ</node>
+    <node type="RIL_WORD" X="2441" Y="116" W="24" H="24">НА</node>
+    <node type="RIL_WORD" X="2477" Y="116" W="49" H="24">ОТМ.</node>
+    <node type="RIL_WORD" X="2535" Y="116" W="134" H="24">239.200(TOS)</node>
+</node>
+<node type="RIL_TEXTLINE" X="2062" Y="1872" W="378" H="24" angle="-0.000000000">
+    <node type="RIL_WORD" X="2062" Y="1872" W="113" H="24">постановки</node>
+    <node type="RIL_WORD" X="2188" Y="1872" W="162" H="24">высокопрочных</node>
+    <node type="RIL_WORD" X="2362" Y="1872" W="77" H="24">болтов.</node>
+</node>
+<node type="RIL_TEXTLINE" X="2298" Y="550" W="410" H="24" angle="-0.451138556">
+    <node type="RIL_WORD" X="2298" Y="550" W="69" H="24">СХЕМА</node>
+    <node type="RIL_WORD" X="2380" Y="550" W="184" H="24">РАСПОЛОЖЕНИЯ</node>
+    <node type="RIL_WORD" X="2580" Y="550" W="127" H="24">ЭЛЕМЕНТОВ</node>
+</node>
+<node type="RIL_TEXTLINE" X="2198" Y="1688" W="424" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="2198" Y="1688" W="45" H="26">Этап</node>
+    <node type="RIL_WORD" X="2255" Y="1688" W="16" H="26">4.</node>
+    <node type="RIL_WORD" X="2280" Y="1688" W="263" H="26">Газоперерабатывающий</node>
+    <node type="RIL_WORD" X="2556" Y="1688" W="65" H="26">завод.</node>
+</node>
+<node type="RIL_TEXTLINE" X="2038" Y="1898" W="426" H="24" angle="-0.400663257">
+    <node type="RIL_WORD" X="2038" Y="1898" W="426" H="24">№ГПЗ-3.1.1.06.916-KMD1-TМТ-РХИ-002</node>
+</node>
+<node type="RIL_TEXTLINE" X="2194" Y="1662" W="438" H="26" angle="0.000000000">
+    <node type="RIL_WORD" X="2194" Y="1662" W="96" H="26">Амурский</node>
+    <node type="RIL_WORD" X="2298" Y="1662" W="257" H="26">газоперерабатывающий</node>
+    <node type="RIL_WORD" X="2567" Y="1662" W="64" H="26">завод.</node>
+</node>
+<node type="RIL_TEXTLINE" X="2136" Y="1588" W="504" H="34" angle="-0.477453828">
+    <node type="RIL_WORD" X="2136" Y="1588" W="503" H="34">0055-SIN-BOM-3.1.1.06.916-KMD1.</node>
+</node>
+<node type="RIL_TEXTLINE" X="1078" Y="892" W="812" H="28" angle="0.000000000">
+    <node type="RIL_WORD" X="1078" Y="892" W="69" H="28">СХЕМА</node>
+    <node type="RIL_WORD" X="1159" Y="892" W="187" H="28">РАСПОЛОЖЕНИЯ</node>
+    <node type="RIL_WORD" X="1363" Y="892" W="130" H="28">ЭЛЕМЕНТОВ</node>
+    <node type="RIL_WORD" X="1506" Y="892" W="24" H="28">НА</node>
+    <node type="RIL_WORD" X="1543" Y="892" W="53" H="28">ОТМ.</node>
+    <node type="RIL_WORD" X="1600" Y="892" W="130" H="28">237.400(TOS)</node>
+    <node type="RIL_WORD" X="1739" Y="892" W="8" H="28">B</node>
+    <node type="RIL_WORD" X="1763" Y="892" W="53" H="28">ОСЯХ</node>
+    <node type="RIL_WORD" X="1828" Y="892" W="61" H="28">4-1-4-6</node>
+</node>
+<node type="RIL_TEXTLINE" X="464" Y="72" W="568" H="26" angle="-0.000000000">
+    <node type="RIL_WORD" X="464" Y="72" W="69" H="26">СХЕМА</node>
+    <node type="RIL_WORD" X="545" Y="72" W="192" H="26">РАСПОЛОЖЕНИЯ</node>
+    <node type="RIL_WORD" X="750" Y="72" W="155" H="26">КОНСТРУКЦИЙ</node>
+    <node type="RIL_WORD" X="917" Y="72" W="114" H="26">ПОКРЫТИЯ</node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="2030" y="296" w="288" h="184"></node>
+    <node type="RIL_CELL" x="1965" y="676" w="475" h="318"></node>
+    <node type="RIL_CELL" x="1873" y="680" w="152" h="9"></node>
+    <node type="RIL_CELL" x="1530" y="311" w="255" h="170"></node>
+    <node type="RIL_CELL" x="1896" y="310" w="104" h="16"></node>
+    <node type="RIL_CELL" x="1246" y="451" w="82" h="120"></node>
+    <node type="RIL_CELL" x="1879" y="492" w="140" h="131"></node>
+    <node type="RIL_CELL" x="1790" y="1118" w="56" h="99"></node>
+    <node type="RIL_CELL" x="1781" y="1119" w="9" h="98"></node>
+    <node type="RIL_CELL" x="1810" y="130" w="62" h="69"></node>
+    <node type="RIL_CELL" x="1872" y="130" w="75" h="69"></node>
+    <node type="RIL_CELL" x="1947" y="130" w="82" h="69"></node>
+    <node type="RIL_CELL" x="1246" y="141" w="82" h="44"></node>
+    <node type="RIL_CELL" x="1327" y="141" w="103" h="44"></node>
+    <node type="RIL_CELL" x="2363" y="170" w="169" h="130"></node>
+    <node type="RIL_CELL" x="2317" y="171" w="46" h="125"></node>
+    <node type="RIL_CELL" x="2268" y="172" w="49" h="124"></node>
+    <node type="RIL_CELL" x="1246" y="185" w="82" h="6"></node>
+    <node type="RIL_CELL" x="1328" y="185" w="102" h="11"></node>
+    <node type="RIL_CELL" x="1430" y="185" w="99" h="11"></node>
+    <node type="RIL_CELL" x="1328" y="191" w="102" h="148"></node>
+    <node type="RIL_CELL" x="1246" y="191" w="81" h="149"></node>
+    <node type="RIL_CELL" x="1430" y="190" w="100" h="149"></node>
+    <node type="RIL_CELL" x="2030" y="172" w="239" h="142"></node>
+    <node type="RIL_CELL" x="1867" y="199" w="12" h="115"></node>
+    <node type="RIL_CELL" x="1529" y="220" w="16" h="16"></node>
+    <node type="RIL_CELL" x="1559" y="220" w="13" h="16"></node>
+    <node type="RIL_CELL" x="1572" y="220" w="12" h="17"></node>
+    <node type="RIL_CELL" x="1897" y="234" w="51" h="25"></node>
+    <node type="RIL_CELL" x="1948" y="234" w="53" h="25"></node>
+    <node type="RIL_CELL" x="2001" y="233" w="11" h="50"></node>
+    <node type="RIL_CELL" x="1886" y="234" w="11" h="50"></node>
+    <node type="RIL_CELL" x="1529" y="237" w="16" h="16"></node>
+    <node type="RIL_CELL" x="1545" y="237" w="7" h="16"></node>
+    <node type="RIL_CELL" x="1553" y="237" w="6" h="16"></node>
+    <node type="RIL_CELL" x="1559" y="237" w="13" h="16"></node>
+    <node type="RIL_CELL" x="1572" y="236" w="12" h="16"></node>
+    <node type="RIL_CELL" x="1530" y="253" w="15" h="17"></node>
+    <node type="RIL_CELL" x="1545" y="253" w="7" h="17"></node>
+    <node type="RIL_CELL" x="1553" y="253" w="6" h="17"></node>
+    <node type="RIL_CELL" x="1559" y="253" w="13" h="17"></node>
+    <node type="RIL_CELL" x="1572" y="252" w="12" h="17"></node>
+    <node type="RIL_CELL" x="1897" y="259" w="51" h="25"></node>
+    <node type="RIL_CELL" x="1948" y="259" w="53" h="25"></node>
+    <node type="RIL_CELL" x="1477" y="207" w="53" h="87"></node>
+    <node type="RIL_CELL" x="1897" y="284" w="51" h="30"></node>
+    <node type="RIL_CELL" x="1947" y="284" w="53" h="30"></node>
+    <node type="RIL_CELL" x="1477" y="294" w="53" h="17"></node>
+    <node type="RIL_CELL" x="2317" y="296" w="90" h="115"></node>
+    <node type="RIL_CELL" x="2528" y="295" w="126" h="115"></node>
+    <node type="RIL_CELL" x="2407" y="295" w="124" h="115"></node>
+    <node type="RIL_CELL" x="1784" y="314" w="84" h="167"></node>
+    <node type="RIL_CELL" x="1867" y="314" w="6" h="11"></node>
+    <node type="RIL_CELL" x="1873" y="314" w="6" h="12"></node>
+    <node type="RIL_CELL" x="1879" y="314" w="18" h="12"></node>
+    <node type="RIL_CELL" x="2000" y="314" w="18" h="12"></node>
+    <node type="RIL_CELL" x="1867" y="326" w="6" h="156"></node>
+    <node type="RIL_CELL" x="1873" y="326" w="6" h="156"></node>
+    <node type="RIL_CELL" x="1879" y="326" w="133" h="156"></node>
+    <node type="RIL_CELL" x="2000" y="326" w="19" h="155"></node>
+    <node type="RIL_CELL" x="2019" y="326" w="6" h="155"></node>
+    <node type="RIL_CELL" x="2024" y="325" w="7" h="155"></node>
+    <node type="RIL_CELL" x="1247" y="339" w="81" h="9"></node>
+    <node type="RIL_CELL" x="1328" y="339" w="102" h="10"></node>
+    <node type="RIL_CELL" x="1430" y="339" w="100" h="10"></node>
+    <node type="RIL_CELL" x="1530" y="338" w="13" h="10"></node>
+    <node type="RIL_CELL" x="1430" y="348" w="101" h="93"></node>
+    <node type="RIL_CELL" x="1227" y="348" w="20" h="94"></node>
+    <node type="RIL_CELL" x="1247" y="349" w="184" h="94"></node>
+    <node type="RIL_CELL" x="1887" y="401" w="11" h="50"></node>
+    <node type="RIL_CELL" x="1898" y="402" w="47" h="25"></node>
+    <node type="RIL_CELL" x="1945" y="401" w="56" h="25"></node>
+    <node type="RIL_CELL" x="2001" y="401" w="12" h="50"></node>
+    <node type="RIL_CELL" x="2408" y="409" w="242" h="35"></node>
+    <node type="RIL_CELL" x="2317" y="411" w="91" h="67"></node>
+    <node type="RIL_CELL" x="1898" y="426" w="47" h="25"></node>
+    <node type="RIL_CELL" x="1945" y="426" w="56" h="25"></node>
+    <node type="RIL_CELL" x="1328" y="442" w="60" h="11"></node>
+    <node type="RIL_CELL" x="1388" y="442" w="43" h="10"></node>
+    <node type="RIL_CELL" x="1431" y="442" w="100" h="128"></node>
+    <node type="RIL_CELL" x="1237" y="442" w="9" h="10"></node>
+    <node type="RIL_CELL" x="1247" y="443" w="15" h="10"></node>
+    <node type="RIL_CELL" x="1261" y="443" w="23" h="9"></node>
+    <node type="RIL_CELL" x="1281" y="388" w="47" h="65"></node>
+    <node type="RIL_CELL" x="1898" y="451" w="104" h="30"></node>
+    <node type="RIL_CELL" x="1328" y="452" w="103" h="118"></node>
+    <node type="RIL_CELL" x="1197" y="452" w="49" h="66"></node>
+    <node type="RIL_CELL" x="1879" y="481" w="18" h="11"></node>
+    <node type="RIL_CELL" x="1897" y="481" w="104" h="12"></node>
+    <node type="RIL_CELL" x="2001" y="481" w="18" h="12"></node>
+    <node type="RIL_CELL" x="2019" y="481" w="5" h="12"></node>
+    <node type="RIL_CELL" x="2025" y="481" w="6" h="12"></node>
+    <node type="RIL_CELL" x="2031" y="480" w="80" h="142"></node>
+    <node type="RIL_CELL" x="1727" y="481" w="58" h="142"></node>
+    <node type="RIL_CELL" x="1785" y="482" w="83" h="142"></node>
+    <node type="RIL_CELL" x="1868" y="482" w="5" h="11"></node>
+    <node type="RIL_CELL" x="1873" y="482" w="6" h="11"></node>
+    <node type="RIL_CELL" x="1868" y="493" w="6" h="130"></node>
+    <node type="RIL_CELL" x="1873" y="493" w="6" h="130"></node>
+    <node type="RIL_CELL" x="2019" y="492" w="6" h="130"></node>
+    <node type="RIL_CELL" x="2025" y="492" w="6" h="130"></node>
+    <node type="RIL_CELL" x="2031" y="493" w="55" h="130"></node>
+    <node type="RIL_CELL" x="1198" y="518" w="34" h="60"></node>
+    <node type="RIL_CELL" x="1232" y="518" w="14" h="52"></node>
+    <node type="RIL_CELL" x="1246" y="570" w="82" h="8"></node>
+    <node type="RIL_CELL" x="1328" y="570" w="102" h="141"></node>
+    <node type="RIL_CELL" x="1431" y="570" w="99" h="8"></node>
+    <node type="RIL_CELL" x="1232" y="571" w="14" h="7"></node>
+    <node type="RIL_CELL" x="1246" y="578" w="82" h="134"></node>
+    <node type="RIL_CELL" x="1431" y="578" w="99" h="133"></node>
+    <node type="RIL_CELL" x="1197" y="578" w="50" h="188"></node>
+    <node type="RIL_CELL" x="1604" y="623" w="269" h="372"></node>
+    <node type="RIL_CELL" x="1874" y="623" w="151" h="36"></node>
+    <node type="RIL_CELL" x="2025" y="623" w="60" h="36"></node>
+    <node type="RIL_CELL" x="2025" y="622" w="504" h="58"></node>
+    <node type="RIL_CELL" x="1874" y="659" w="151" h="22"></node>
+    <node type="RIL_CELL" x="2440" y="675" w="90" h="124"></node>
+    <node type="RIL_CELL" x="2395" y="676" w="46" h="123"></node>
+    <node type="RIL_CELL" x="2530" y="675" w="29" h="124"></node>
+    <node type="RIL_CELL" x="1661" y="681" w="363" h="306"></node>
+    <node type="RIL_CELL" x="1328" y="711" w="102" h="10"></node>
+    <node type="RIL_CELL" x="788" y="711" w="755" h="288"></node>
+    <node type="RIL_CELL" x="1247" y="711" w="81" h="41"></node>
+    <node type="RIL_CELL" x="2441" y="799" w="90" h="99"></node>
+    <node type="RIL_CELL" x="2440" y="898" w="90" h="14"></node>
+    <node type="RIL_CELL" x="1541" y="933" w="64" h="63"></node>
+    <node type="RIL_CELL" x="2514" y="991" w="178" h="124"></node>
+    <node type="RIL_CELL" x="2142" y="991" w="367" h="125"></node>
+    <node type="RIL_CELL" x="2508" y="991" w="7" h="124"></node>
+    <node type="RIL_CELL" x="1966" y="994" w="61" h="124"></node>
+    <node type="RIL_CELL" x="2026" y="994" w="62" h="123"></node>
+    <node type="RIL_CELL" x="2692" y="990" w="62" h="123"></node>
+    <node type="RIL_CELL" x="1670" y="995" w="59" h="124"></node>
+    <node type="RIL_CELL" x="1724" y="995" w="61" h="124"></node>
+    <node type="RIL_CELL" x="1783" y="995" w="63" h="125"></node>
+    <node type="RIL_CELL" x="1845" y="994" w="61" h="123"></node>
+    <node type="RIL_CELL" x="1906" y="994" w="60" h="123"></node>
+    <node type="RIL_CELL" x="1541" y="996" w="64" h="124"></node>
+    <node type="RIL_CELL" x="1605" y="996" w="65" h="222"></node>
+    <node type="RIL_CELL" x="540" y="999" w="130" h="125"></node>
+    <node type="RIL_CELL" x="789" y="997" w="599" h="125"></node>
+    <node type="RIL_CELL" x="330" y="999" w="29" h="123"></node>
+    <node type="RIL_CELL" x="358" y="1000" w="19" h="123"></node>
+    <node type="RIL_CELL" x="378" y="1000" w="75" h="124"></node>
+    <node type="RIL_CELL" x="2515" y="1114" w="179" h="81"></node>
+    <node type="RIL_CELL" x="2693" y="1113" w="63" h="81"></node>
+    <node type="RIL_CELL" x="2387" y="1115" w="123" h="81"></node>
+    <node type="RIL_CELL" x="2508" y="1115" w="7" h="80"></node>
+    <node type="RIL_CELL" x="1966" y="1117" w="122" h="81"></node>
+    <node type="RIL_CELL" x="2088" y="1117" w="60" h="81"></node>
+    <node type="RIL_CELL" x="1846" y="1118" w="61" h="99"></node>
+    <node type="RIL_CELL" x="1906" y="1118" w="59" h="99"></node>
+    <node type="RIL_CELL" x="1544" y="1119" w="81" h="99"></node>
+    <node type="RIL_CELL" x="1670" y="1119" w="59" h="99"></node>
+    <node type="RIL_CELL" x="1729" y="1119" w="53" h="99"></node>
+    <node type="RIL_CELL" x="546" y="1122" w="123" h="44"></node>
+    <node type="RIL_CELL" x="670" y="1122" w="119" h="44"></node>
+    <node type="RIL_CELL" x="1388" y="1119" w="92" h="100"></node>
+    <node type="RIL_CELL" x="788" y="1120" w="600" h="163"></node>
+    <node type="RIL_CELL" x="331" y="1122" w="28" h="161"></node>
+    <node type="RIL_CELL" x="359" y="1123" w="19" h="161"></node>
+    <node type="RIL_CELL" x="378" y="1123" w="28" h="161"></node>
+    <node type="RIL_CELL" x="406" y="1123" w="44" h="161"></node>
+    <node type="RIL_CELL" x="450" y="1124" w="46" h="43"></node>
+    <node type="RIL_CELL" x="496" y="1124" w="44" h="42"></node>
+    <node type="RIL_CELL" x="665" y="1165" w="62" h="65"></node>
+    <node type="RIL_CELL" x="727" y="1163" w="62" h="68"></node>
+    <node type="RIL_CELL" x="540" y="1124" w="130" h="106"></node>
+    <node type="RIL_CELL" x="450" y="1167" w="45" h="64"></node>
+    <node type="RIL_CELL" x="496" y="1167" w="46" h="64"></node>
+    <node type="RIL_CELL" x="2511" y="1195" w="184" h="254"></node>
+    <node type="RIL_CELL" x="2694" y="1193" w="69" h="295"></node>
+    <node type="RIL_CELL" x="2331" y="1195" w="181" h="256"></node>
+    <node type="RIL_CELL" x="2230" y="1195" w="101" h="77"></node>
+    <node type="RIL_CELL" x="2088" y="1197" w="60" h="75"></node>
+    <node type="RIL_CELL" x="2148" y="1197" w="82" h="74"></node>
+    <node type="RIL_CELL" x="1972" y="1198" w="56" h="74"></node>
+    <node type="RIL_CELL" x="2028" y="1198" w="60" h="74"></node>
+    <node type="RIL_CELL" x="1785" y="1217" w="61" h="56"></node>
+    <node type="RIL_CELL" x="1846" y="1216" w="121" h="56"></node>
+    <node type="RIL_CELL" x="1479" y="1218" w="66" h="236"></node>
+    <node type="RIL_CELL" x="1544" y="1120" w="81" h="334"></node>
+    <node type="RIL_CELL" x="1621" y="1218" w="46" h="236"></node>
+    <node type="RIL_CELL" x="1666" y="1218" w="60" h="236"></node>
+    <node type="RIL_CELL" x="1670" y="1217" w="103" h="56"></node>
+    <node type="RIL_CELL" x="1773" y="1217" w="12" h="56"></node>
+    <node type="RIL_CELL" x="1964" y="1216" w="8" h="56"></node>
+    <node type="RIL_CELL" x="789" y="1219" w="756" h="257"></node>
+    <node type="RIL_CELL" x="542" y="1230" w="123" h="57"></node>
+    <node type="RIL_CELL" x="665" y="1230" w="62" h="53"></node>
+    <node type="RIL_CELL" x="727" y="1230" w="62" h="52"></node>
+    <node type="RIL_CELL" x="450" y="1231" w="46" h="50"></node>
+    <node type="RIL_CELL" x="495" y="1231" w="47" h="56"></node>
+    <node type="RIL_CELL" x="1689" y="1262" w="37" h="21"></node>
+    <node type="RIL_CELL" x="1725" y="1262" w="27" h="21"></node>
+    <node type="RIL_CELL" x="2230" y="1271" w="102" h="180"></node>
+    <node type="RIL_CELL" x="2088" y="1271" w="61" h="181"></node>
+    <node type="RIL_CELL" x="2148" y="1271" w="82" h="180"></node>
+    <node type="RIL_CELL" x="1966" y="1272" w="63" h="180"></node>
+    <node type="RIL_CELL" x="2028" y="1272" w="61" h="180"></node>
+    <node type="RIL_CELL" x="1846" y="1273" w="120" h="125"></node>
+    <node type="RIL_CELL" x="1753" y="1273" w="21" h="124"></node>
+    <node type="RIL_CELL" x="1773" y="1273" w="13" h="123"></node>
+    <node type="RIL_CELL" x="1786" y="1273" w="61" h="125"></node>
+    <node type="RIL_CELL" x="1966" y="1272" w="11" h="123"></node>
+    <node type="RIL_CELL" x="448" y="1281" w="48" h="6"></node>
+    <node type="RIL_CELL" x="542" y="1283" w="123" h="193"></node>
+    <node type="RIL_CELL" x="665" y="1283" w="61" h="32"></node>
+    <node type="RIL_CELL" x="727" y="1283" w="62" h="32"></node>
+    <node type="RIL_CELL" x="1689" y="1283" w="37" h="103"></node>
+    <node type="RIL_CELL" x="1726" y="1283" w="36" h="103"></node>
+    <node type="RIL_CELL" x="448" y="1287" w="48" h="189"></node>
+    <node type="RIL_CELL" x="495" y="1287" w="48" h="189"></node>
+    <node type="RIL_CELL" x="666" y="1315" w="124" h="160"></node>
+    <node type="RIL_CELL" x="1693" y="1386" w="33" h="22"></node>
+    <node type="RIL_CELL" x="1726" y="1386" w="35" h="22"></node>
+    <node type="RIL_CELL" x="1847" y="1396" w="61" h="56"></node>
+    <node type="RIL_CELL" x="1908" y="1394" w="59" h="58"></node>
+    <node type="RIL_CELL" x="1726" y="1396" w="60" h="57"></node>
+    <node type="RIL_CELL" x="1786" y="1397" w="60" h="56"></node>
+    <node type="RIL_CELL" x="2332" y="1449" w="363" h="20"></node>
+    <node type="RIL_CELL" x="2089" y="1451" w="142" h="11"></node>
+    <node type="RIL_CELL" x="1967" y="1451" w="364" h="20"></node>
+    <node type="RIL_CELL" x="2028" y="1452" w="61" h="10"></node>
+    <node type="RIL_CELL" x="1786" y="1453" w="61" h="10"></node>
+    <node type="RIL_CELL" x="1846" y="1453" w="61" h="10"></node>
+    <node type="RIL_CELL" x="1545" y="1452" w="422" h="20"></node>
+    <node type="RIL_CELL" x="1620" y="1454" w="46" h="10"></node>
+    <node type="RIL_CELL" x="1666" y="1454" w="60" h="10"></node>
+    <node type="RIL_CELL" x="1726" y="1453" w="60" h="9"></node>
+    <node type="RIL_CELL" x="2332" y="1467" w="363" h="21"></node>
+    <node type="RIL_CELL" x="1967" y="1469" w="364" h="21"></node>
+    <node type="RIL_CELL" x="1545" y="1471" w="422" h="22"></node>
+    <node type="RIL_CELL" x="790" y="1473" w="755" h="22"></node>
+    <node type="RIL_CELL" x="543" y="1476" w="247" h="20"></node>
+    <node type="RIL_CELL" x="450" y="1476" w="46" h="9"></node>
+    <node type="RIL_CELL" x="496" y="1476" w="47" h="30"></node>
+    <node type="RIL_CELL" x="2331" y="1488" w="364" h="12"></node>
+    <node type="RIL_CELL" x="1967" y="1489" w="365" h="13"></node>
+    <node type="RIL_CELL" x="1544" y="1491" w="423" h="12"></node>
+    <node type="RIL_CELL" x="789" y="1493" w="755" h="13"></node>
+    <node type="RIL_CELL" x="542" y="1495" w="247" h="11"></node>
+    <node type="RIL_CELL" x="1367" y="481" w="45" h="89"></node>
+    <node type="RIL_CELL" x="1342" y="362" w="46" h="80"></node>
+    <node type="RIL_CELL" x="1670" y="1231" w="55" h="32"></node>
+    <node type="RIL_CELL" x="1571" y="189" w="295" h="31"></node>
+    <node type="RIL_CELL" x="1811" y="120" w="61" h="10"></node>
+    <node type="RIL_CELL" x="1871" y="119" w="76" h="11"></node>
+    <node type="RIL_CELL" x="1947" y="119" w="76" h="11"></node>
+    <node type="RIL_CELL" x="1246" y="130" w="81" h="11"></node>
+    <node type="RIL_CELL" x="1429" y="130" w="100" h="11"></node>
+    <node type="RIL_CELL" x="1327" y="130" w="103" h="11"></node>
+    <node type="RIL_CELL" x="2093" y="421" w="436" h="246"></node>
+    <node type="RIL_CELL" x="1661" y="980" w="304" h="16"></node>
+    <node type="RIL_CELL" x="2023" y="119" w="442" h="79"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="832" y="192" w="124" h="50"></node>
+    <node type="RIL_CELL" x="952" y="192" w="123" h="50"></node>
+    <node type="RIL_CELL" x="461" y="193" w="188" h="50"></node>
+    <node type="RIL_CELL" x="647" y="193" w="185" h="50"></node>
+    <node type="RIL_CELL" x="303" y="191" w="55" h="51"></node>
+    <node type="RIL_CELL" x="358" y="192" w="55" h="52"></node>
+    <node type="RIL_CELL" x="414" y="193" w="49" h="50"></node>
+    <node type="RIL_CELL" x="831" y="242" w="121" h="188"></node>
+    <node type="RIL_CELL" x="952" y="242" w="123" h="188"></node>
+    <node type="RIL_CELL" x="414" y="243" w="47" h="11"></node>
+    <node type="RIL_CELL" x="461" y="243" w="4" h="51"></node>
+    <node type="RIL_CELL" x="461" y="243" w="186" h="188"></node>
+    <node type="RIL_CELL" x="647" y="242" w="185" h="188"></node>
+    <node type="RIL_CELL" x="303" y="242" w="56" h="155"></node>
+    <node type="RIL_CELL" x="358" y="242" w="56" h="155"></node>
+    <node type="RIL_CELL" x="396" y="254" w="20" h="50"></node>
+    <node type="RIL_CELL" x="414" y="255" w="49" h="50"></node>
+    <node type="RIL_CELL" x="400" y="304" w="16" h="29"></node>
+    <node type="RIL_CELL" x="415" y="305" w="48" h="29"></node>
+    <node type="RIL_CELL" x="400" y="333" w="15" h="50"></node>
+    <node type="RIL_CELL" x="414" y="334" w="49" h="63"></node>
+    <node type="RIL_CELL" x="414" y="395" w="47" h="36"></node>
+    <node type="RIL_CELL" x="831" y="430" w="244" h="33"></node>
+    <node type="RIL_CELL" x="462" y="430" w="369" h="33"></node>
+    <node type="RIL_CELL" x="831" y="462" w="244" h="27"></node>
+    <node type="RIL_CELL" x="462" y="463" w="369" h="27"></node>
+    <node type="RIL_CELL" x="461" y="489" w="370" h="24"></node>
+    <node type="RIL_CELL" x="831" y="488" w="244" h="18"></node>
+    <node type="RIL_CELL" x="413" y="178" w="49" h="15"></node>
+    <node type="RIL_CELL" x="462" y="177" w="187" h="16"></node>
+    <node type="RIL_CELL" x="647" y="145" w="185" h="48"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="88" y="6" w="2751" h="1973"></node>
+</node>
+<node type="RIL_TABLE">
+    <node type="RIL_CELL" x="219" y="30" w="2585" h="1917"></node>
+    <node type="RIL_CELL" x="2025" y="1571" w="780" h="70"></node>
+    <node type="RIL_CELL" x="1797" y="1576" w="64" h="34"></node>
+    <node type="RIL_CELL" x="1862" y="1576" w="97" h="33"></node>
+    <node type="RIL_CELL" x="1959" y="1576" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1603" y="1577" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1732" y="1577" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1862" y="1609" w="97" h="33"></node>
+    <node type="RIL_CELL" x="1959" y="1609" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1603" y="1610" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1732" y="1610" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1797" y="1610" w="64" h="33"></node>
+    <node type="RIL_CELL" x="2025" y="1638" w="781" h="104"></node>
+    <node type="RIL_CELL" x="1862" y="1642" w="98" h="33"></node>
+    <node type="RIL_CELL" x="1959" y="1642" w="66" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1643" w="128" h="33"></node>
+    <node type="RIL_CELL" x="1732" y="1643" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1797" y="1643" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1862" y="1675" w="97" h="34"></node>
+    <node type="RIL_CELL" x="1960" y="1675" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1676" w="129" h="34"></node>
+    <node type="RIL_CELL" x="1732" y="1676" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1797" y="1676" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1733" y="1709" w="129" h="34"></node>
+    <node type="RIL_CELL" x="1862" y="1709" w="97" h="34"></node>
+    <node type="RIL_CELL" x="1960" y="1709" w="66" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1710" w="129" h="34"></node>
+    <node type="RIL_CELL" x="2578" y="1738" w="90" h="33"></node>
+    <node type="RIL_CELL" x="2668" y="1738" w="138" h="34"></node>
+    <node type="RIL_CELL" x="2026" y="1739" w="455" h="102"></node>
+    <node type="RIL_CELL" x="2481" y="1739" w="97" h="33"></node>
+    <node type="RIL_CELL" x="1862" y="1742" w="98" h="33"></node>
+    <node type="RIL_CELL" x="1960" y="1742" w="66" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1743" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1733" y="1743" w="129" h="33"></node>
+    <node type="RIL_CELL" x="2668" y="1771" w="139" h="67"></node>
+    <node type="RIL_CELL" x="2481" y="1772" w="97" h="67"></node>
+    <node type="RIL_CELL" x="2578" y="1772" w="90" h="66"></node>
+    <node type="RIL_CELL" x="1862" y="1775" w="98" h="34"></node>
+    <node type="RIL_CELL" x="1960" y="1775" w="65" h="34"></node>
+    <node type="RIL_CELL" x="1604" y="1776" w="128" h="33"></node>
+    <node type="RIL_CELL" x="1733" y="1776" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1960" y="1808" w="65" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1809" w="128" h="33"></node>
+    <node type="RIL_CELL" x="1733" y="1809" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1862" y="1809" w="98" h="33"></node>
+    <node type="RIL_CELL" x="2481" y="1837" w="326" h="101"></node>
+    <node type="RIL_CELL" x="2026" y="1839" w="455" h="102"></node>
+    <node type="RIL_CELL" x="1862" y="1841" w="98" h="33"></node>
+    <node type="RIL_CELL" x="1960" y="1841" w="66" h="33"></node>
+    <node type="RIL_CELL" x="1604" y="1842" w="129" h="33"></node>
+    <node type="RIL_CELL" x="1733" y="1842" w="130" h="33"></node>
+    <node type="RIL_CELL" x="1863" y="1874" w="97" h="34"></node>
+    <node type="RIL_CELL" x="1960" y="1874" w="66" h="34"></node>
+    <node type="RIL_CELL" x="1605" y="1875" w="128" h="34"></node>
+    <node type="RIL_CELL" x="1733" y="1875" w="129" h="34"></node>
+    <node type="RIL_CELL" x="1733" y="1908" w="129" h="34"></node>
+    <node type="RIL_CELL" x="1863" y="1908" w="98" h="33"></node>
+    <node type="RIL_CELL" x="1960" y="1908" w="66" h="33"></node>
+    <node type="RIL_CELL" x="1605" y="1909" w="128" h="34"></node>
+</node>

@@ -1,0 +1,5 @@
+<node type="RIL_TEXTLINE" X="66" Y="594" W="16" H="260" angle="90.000000000">
+    <node type="RIL_WORD" X="66" Y="594" W="16" H="32">АООК</node>
+    <node type="RIL_WORD" X="66" Y="634" W="16" H="8">№</node>
+    <node type="RIL_WORD" X="66" Y="650" W="16" H="203">2567-7964-2-U007-К41+-A0OOK-001</node>
+</node>
