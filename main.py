@@ -1,27 +1,23 @@
-import re
-import xml.etree.ElementTree as ET
+import os
+
+from utils import parse_xml
 
 
-def clean_text(text):
-    clean_text = re.sub('[^a-zA-Zа-яА-Я]+', '', text)
-    return clean_text
+def copy_folder_structure(source_dir: str, destination_dir: str) -> None:
+    """Создает исходную структуру папок в новой папке."""
+    for root, _, files in os.walk(source_dir):
+        relative_path = os.path.relpath(root, source_dir)
+        new_dir = os.path.join(destination_dir, relative_path)
+        os.makedirs(new_dir, exist_ok=True)
+        for file in files:
+            filename, extension = os.path.splitext(file)
+            if extension.lower() == '.xml':
+                source_file = os.path.join(root, file)
+                destination_file = os.path.join(new_dir, f'{filename}.txt')
+                parse_xml(source_file, destination_file)
 
 
-in_file = open('data/13/output.xml', encoding='utf-8')
-xml = '<root>' + in_file.read() + '</root>'
-in_file.close()
-root = ET.fromstring(xml)
-
-with open('output.txt', 'w') as out_file:
-    data = []
-    for node in root.iter('node'):
-        if node.attrib.get('type') == 'RIL_TEXTLINE':
-            line = ''
-            for child_none in node:
-                if child_none.attrib.get('type') == 'RIL_WORD':
-                    text = clean_text(child_none.text)
-                    if text:
-                        line += f' {text}'
-            if line:
-                data.append(line.lstrip())
-    out_file.write('\n'.join(data))
+if __name__ == '__main__':
+    source_dir = 'data'
+    destination_dir = 'output'
+    copy_folder_structure(source_dir, destination_dir)
